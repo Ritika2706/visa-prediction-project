@@ -1,0 +1,944 @@
+application_id,applicant_country,visa_type,submission_date,decision_date,processing_time_days,processing_center,decision,season,application_year,processing_days_computed,processing_time_days_clean
+A00522,Saudi Arabia,Skilled Migration,2023-04-28,2023-06-30,63.0,Berlin,Rejected,Spring,2023,63.0,63.0
+A00738,Pakistan,Tourist,2022-10-04,2022-10-25,21.0,Delhi,Approved,Autumn,2022,21.0,21.0
+A00741,Kenya,Employment,2024-11-06,2025-01-28,83.0,Sydney,Approved,Autumn,2024,83.0,83.0
+A00661,Bangladesh,Visit,2024-09-13,2024-09-28,15.0,Berlin,Approved,Autumn,2024,15.0,15.0
+A00412,United Kingdom,Skilled Migration,2024-05-09,2025-02-07,274.0,Singapore,Approved,Spring,2024,274.0,271.7400000000001
+A00679,Canada,Business,2023-09-07,2023-10-16,39.0,Singapore,Approved,Autumn,2023,39.0,39.0
+A00627,Nepal,Student,2022-01-26,2022-03-13,46.0,Berlin,Approved,Winter,2022,46.0,46.0
+A00514,France,Student,2024-03-05,2024-05-07,63.0,Singapore,Rejected,Spring,2024,63.0,63.0
+A00860,United States,Tourist,2024-11-02,2024-11-22,20.0,Delhi,Approved,Autumn,2024,20.0,20.0
+A00137,France,Visit,2021-10-02,2021-10-23,21.0,Delhi,Approved,Autumn,2021,21.0,21.0
+A00812,Kenya,Tourist,2023-07-01,2023-07-19,18.0,Delhi,Approved,Summer,2023,18.0,18.0
+A00077,Nigeria,Visit,2023-03-19,2023-04-15,27.0,Singapore,Rejected,Spring,2023,27.0,27.0
+A00637,Brazil,Work,2023-03-15,2023-06-19,96.0,Singapore,Approved,Spring,2023,96.0,96.0
+A00974,Brazil,Employment,2022-03-03,2022-06-04,93.0,Berlin,Approved,Spring,2022,93.0,93.0
+A00939,Sri Lanka,Permanent Residency,2023-03-04,2023-07-29,147.0,Ottawa,Approved,Spring,2023,147.0,147.0
+A00281,Brazil,Permanent Residency,2023-10-03,2024-04-09,189.0,New York,Approved,Autumn,2023,189.0,189.0
+A00884,Germany,Business,2021-08-29,2021-10-18,50.0,Delhi,Approved,Summer,2021,50.0,50.0
+A00762,Nigeria,Skilled Migration,2022-11-25,2023-04-28,154.0,Berlin,Approved,Autumn,2022,154.0,154.0
+A00320,South Africa,Visit,2024-11-12,2024-11-22,10.0,Berlin,Approved,Autumn,2024,10.0,10.0
+A00550,China,Permanent Residency,2021-10-31,2021-12-17,47.0,London,Approved,Autumn,2021,47.0,47.0
+A00175,United States,Employment,2021-05-29,2021-07-22,54.0,New York,Rejected,Spring,2021,54.0,54.0
+A00372,Nigeria,Business,2021-05-25,2021-06-18,24.0,New York,Approved,Spring,2021,24.0,24.0
+A00528,Bangladesh,Employment,2022-12-24,2023-03-17,83.0,London,Approved,Winter,2022,83.0,83.0
+A00211,Kenya,Skilled Migration,2021-09-29,2022-03-04,156.0,Delhi,Rejected,Autumn,2021,156.0,156.0
+A00236,Sri Lanka,Work,2021-01-26,2021-03-28,61.0,Sydney,Approved,Winter,2021,61.0,61.0
+A00102,China,Skilled Migration,2021-07-26,2021-12-11,138.0,Berlin,Approved,Summer,2021,138.0,138.0
+A00987,Canada,Business,2023-06-14,2023-07-14,30.0,Singapore,Approved,Summer,2023,30.0,30.0
+A00903,Canada,Employment,2021-01-28,2021-05-13,105.0,Sydney,Approved,Winter,2021,105.0,105.0
+A00948,China,Business,2021-08-29,2021-10-05,37.0,Singapore,Approved,Summer,2021,37.0,37.0
+A00347,Philippines,Permanent Residency,2021-04-27,2021-10-27,183.0,New York,Approved,Spring,2021,183.0,183.0
+A00140,South Africa,Work,2022-07-18,2022-10-13,87.0,Delhi,Approved,Summer,2022,87.0,87.0
+A00622,Kenya,Business,2023-03-30,2023-04-23,24.0,Ottawa,Approved,Spring,2023,24.0,24.0
+A00500,United States,Visit,2023-12-31,2024-01-18,18.0,Berlin,Rejected,Winter,2023,18.0,18.0
+A00371,Turkey,Business,2021-12-25,2022-01-05,11.0,Abu Dhabi,Rejected,Winter,2021,11.0,11.0
+A00199,Germany,Business,2022-06-15,2022-06-28,13.0,London,Rejected,Summer,2022,13.0,13.0
+A00688,Brazil,Student,2022-02-09,2022-04-23,73.0,London,Approved,Winter,2022,73.0,73.0
+A00585,Nepal,Student,2023-11-02,2024-01-09,68.0,Ottawa,Rejected,Autumn,2023,68.0,68.0
+A00902,United States,Business,2022-01-29,2022-03-07,37.0,Singapore,Approved,Winter,2022,37.0,37.0
+A00060,Pakistan,Skilled Migration,2021-05-07,2021-07-27,81.0,Sydney,Approved,Spring,2021,81.0,81.0
+A00097,Philippines,Work,2022-09-02,2022-11-19,78.0,Berlin,Approved,Autumn,2022,78.0,78.0
+A00313,Nepal,Work,2024-02-08,2024-04-25,77.0,Delhi,Approved,Winter,2024,77.0,77.0
+A00300,United Kingdom,Work,2024-03-09,2024-04-28,50.0,Sydney,Approved,Spring,2024,50.0,50.0
+A00278,Canada,Student,2022-01-26,2022-03-29,62.0,Berlin,Approved,Winter,2022,62.0,62.0
+A00925,Saudi Arabia,Visit,2023-08-29,2023-09-30,32.0,Sydney,Rejected,Summer,2023,32.0,32.0
+A00602,Pakistan,Business,2022-03-22,2022-05-03,42.0,Abu Dhabi,Approved,Spring,2022,42.0,42.0
+A00440,United Kingdom,Work,2024-03-27,2024-06-19,84.0,Abu Dhabi,Approved,Spring,2024,84.0,84.0
+A00838,United Kingdom,Employment,2023-08-22,2023-11-15,85.0,Ottawa,Approved,Summer,2023,85.0,85.0
+A00571,Germany,Business,2022-04-12,2022-05-17,35.0,Singapore,Approved,Spring,2022,35.0,35.0
+A00880,South Africa,Work,2021-08-10,2021-10-15,66.0,New York,Approved,Summer,2021,66.0,66.0
+A00262,Nigeria,Visit,2021-04-29,2021-05-22,23.0,Delhi,Approved,Spring,2021,23.0,23.0
+A00579,Germany,Visit,2023-03-22,2023-04-10,19.0,London,Approved,Spring,2023,19.0,19.0
+A00024,Canada,Business,2021-02-08,2021-03-23,43.0,Sydney,Approved,Winter,2021,43.0,43.0
+A00031,United States,Visit,2024-05-15,2024-06-07,23.0,Singapore,Approved,Spring,2024,23.0,23.0
+A00618,United States,Skilled Migration,2024-02-23,2024-05-18,85.0,Abu Dhabi,Approved,Winter,2024,85.0,85.0
+A00011,Saudi Arabia,Business,2024-01-20,2024-02-19,30.0,Sydney,Approved,Winter,2024,30.0,30.0
+A00222,Nigeria,Skilled Migration,2022-02-16,2022-06-22,126.0,Abu Dhabi,Approved,Winter,2022,126.0,126.0
+A00297,United States,Tourist,2022-08-01,2022-08-15,14.0,Singapore,Approved,Summer,2022,14.0,14.0
+A00055,Sri Lanka,Business,2023-03-16,2023-03-30,14.0,Abu Dhabi,Approved,Spring,2023,14.0,14.0
+A00543,Saudi Arabia,Visit,2022-07-21,2022-08-11,21.0,London,Approved,Summer,2022,21.0,21.0
+A00210,Nepal,Visit,2021-09-05,2021-10-05,30.0,Delhi,Approved,Autumn,2021,30.0,30.0
+A00605,United Kingdom,Tourist,2021-01-13,2021-01-26,13.0,Abu Dhabi,Rejected,Winter,2021,13.0,13.0
+A00693,United States,Tourist,2024-03-23,2024-04-17,25.0,Delhi,Rejected,Spring,2024,25.0,25.0
+A00663,Sri Lanka,Business,2021-02-21,2021-03-19,26.0,New York,Rejected,Winter,2021,26.0,26.0
+A00867,France,Permanent Residency,2024-05-31,2024-12-06,189.0,Abu Dhabi,Approved,Spring,2024,189.0,189.0
+A00071,Turkey,Tourist,2022-08-27,2022-09-17,21.0,Delhi,Approved,Summer,2022,21.0,21.0
+A00544,UAE,Skilled Migration,2022-10-13,2023-02-11,121.0,Singapore,Approved,Autumn,2022,121.0,121.0
+A00108,Turkey,Employment,2022-02-26,2022-06-10,104.0,London,Rejected,Winter,2022,104.0,104.0
+A00494,Philippines,Work,2023-01-20,2023-03-21,60.0,New York,Approved,Winter,2023,60.0,60.0
+A00591,Nepal,Skilled Migration,2024-06-14,2024-11-04,143.0,London,Approved,Summer,2024,143.0,143.0
+A00742,Kenya,Visit,2021-01-01,2021-01-09,8.0,New York,Rejected,Winter,2021,8.0,8.0
+A00293,Germany,Work,2023-12-12,2024-03-24,103.0,Ottawa,Approved,Winter,2023,103.0,103.0
+A00290,Nigeria,Skilled Migration,2023-10-27,2024-03-12,137.0,Sydney,Approved,Autumn,2023,137.0,137.0
+A00653,South Africa,Student,2024-01-04,2024-03-13,69.0,Abu Dhabi,Approved,Winter,2024,69.0,69.0
+A00040,France,Permanent Residency,2023-02-06,2023-08-01,176.0,London,Approved,Winter,2023,176.0,176.0
+A00590,United Kingdom,Student,2021-02-12,2021-04-22,69.0,Singapore,Approved,Winter,2021,69.0,69.0
+A00308,Pakistan,Student,2024-03-30,2024-05-30,61.0,Abu Dhabi,Rejected,Spring,2024,61.0,61.0
+A00680,India,Permanent Residency,2022-10-07,2023-04-13,188.0,New York,Rejected,Autumn,2022,188.0,188.0
+A00067,Nigeria,Work,2022-06-02,2022-09-10,100.0,Abu Dhabi,Approved,Summer,2022,100.0,100.0
+A00276,Nepal,Visit,2023-04-15,2023-05-24,39.0,Ottawa,Approved,Spring,2023,39.0,39.0
+A00068,China,Skilled Migration,2024-03-07,2024-07-04,119.0,New York,Approved,Spring,2024,119.0,119.0
+A00319,Canada,Business,2022-12-28,2023-02-12,46.0,Delhi,Approved,Winter,2022,46.0,46.0
+A00549,Pakistan,Skilled Migration,2021-01-13,2021-06-24,162.0,Singapore,Approved,Winter,2021,162.0,162.0
+A00999,Philippines,Employment,2022-10-02,2022-12-10,69.0,London,Rejected,Autumn,2022,69.0,69.0
+A00715,Australia,Business,2021-04-08,2021-05-01,23.0,New York,Approved,Spring,2021,23.0,23.0
+A00754,Nepal,Skilled Migration,2021-08-14,2022-01-13,152.0,London,Approved,Summer,2021,152.0,152.0
+A00328,South Africa,Work,2022-01-21,2022-04-22,91.0,London,Approved,Winter,2022,91.0,91.0
+A00383,Kenya,Tourist,2022-09-26,2022-10-16,20.0,Sydney,Approved,Autumn,2022,20.0,20.0
+A00452,Germany,Visit,2021-05-28,2021-12-06,192.0,Singapore,Approved,Spring,2021,192.0,192.0
+A00523,United States,Employment,2021-12-03,2022-02-25,84.0,Ottawa,Approved,Winter,2021,84.0,84.0
+A00219,Canada,Skilled Migration,2024-01-20,2024-04-21,92.0,Ottawa,Approved,Winter,2024,92.0,92.0
+A00788,Bangladesh,Visit,2022-03-09,2022-04-04,26.0,Abu Dhabi,Approved,Spring,2022,26.0,26.0
+A00437,UAE,Employment,2023-09-27,2024-02-06,132.0,Delhi,Approved,Autumn,2023,132.0,132.0
+A00765,United States,Visit,2023-03-26,2023-04-20,25.0,Sydney,Approved,Spring,2023,25.0,25.0
+A00089,Nepal,Permanent Residency,2023-09-25,2024-02-21,149.0,New York,Approved,Autumn,2023,149.0,149.0
+A00827,Sri Lanka,Visit,2023-12-13,2024-06-02,172.0,Delhi,Approved,Winter,2023,172.0,172.0
+A00717,India,Tourist,2021-01-31,2021-02-16,16.0,London,Approved,Winter,2021,16.0,16.0
+A00352,Canada,Tourist,2023-07-19,2023-08-03,15.0,Berlin,Approved,Summer,2023,15.0,15.0
+A00937,France,Work,2022-06-14,2022-08-26,73.0,London,Approved,Summer,2022,73.0,73.0
+A00257,Sri Lanka,Visit,2023-07-24,2023-08-28,35.0,Sydney,Approved,Summer,2023,35.0,35.0
+A00636,South Africa,Work,2022-06-19,2022-08-24,66.0,Sydney,Approved,Summer,2022,66.0,66.0
+A00645,Nigeria,Visit,2021-08-23,2021-09-18,26.0,Sydney,Approved,Summer,2021,26.0,26.0
+A00555,France,Tourist,2021-10-17,2021-10-28,11.0,London,Approved,Autumn,2021,11.0,11.0
+A00169,South Africa,Skilled Migration,2022-01-30,2022-07-28,179.0,Berlin,Approved,Winter,2022,179.0,179.0
+A00918,Germany,Skilled Migration,2023-07-02,2023-12-30,181.0,London,Approved,Summer,2023,181.0,181.0
+A00529,Australia,Work,2023-08-29,2023-09-27,29.0,Singapore,Approved,Summer,2023,29.0,29.0
+A00824,Nepal,Skilled Migration,2022-11-01,2023-02-19,110.0,London,Approved,Autumn,2022,110.0,110.0
+A00986,India,Work,2021-10-20,2021-12-29,70.0,Abu Dhabi,Approved,Autumn,2021,70.0,70.0
+A00817,Saudi Arabia,Business,2024-05-01,2024-06-01,31.0,London,Approved,Spring,2024,31.0,31.0
+A00087,Pakistan,Tourist,2021-09-24,2021-10-18,24.0,Ottawa,Approved,Autumn,2021,24.0,24.0
+A00433,UAE,Student,2024-10-31,2024-12-31,61.0,Berlin,Approved,Autumn,2024,61.0,61.0
+A00185,United States,Tourist,2024-06-17,2024-07-13,26.0,Delhi,Approved,Summer,2024,26.0,26.0
+A00979,China,Visit,2024-12-27,2025-01-26,30.0,Delhi,Approved,Winter,2024,30.0,30.0
+A00535,China,Permanent Residency,2023-03-25,2023-09-06,165.0,Berlin,Approved,Spring,2023,165.0,165.0
+A00295,Philippines,Tourist,2023-03-01,2023-03-13,12.0,Berlin,Approved,Spring,2023,12.0,12.0
+A00893,South Africa,Tourist,2023-03-14,2023-04-05,22.0,Ottawa,Approved,Spring,2023,22.0,22.0
+A00426,UAE,Permanent Residency,2024-09-22,2025-03-26,185.0,Berlin,Approved,Autumn,2024,185.0,185.0
+A00714,Nigeria,Student,2024-10-30,2025-01-13,75.0,Delhi,Approved,Autumn,2024,75.0,75.0
+A00261,India,Skilled Migration,2023-09-16,2024-02-13,150.0,Abu Dhabi,Approved,Autumn,2023,150.0,150.0
+A00238,Australia,Work,2022-03-15,2022-07-06,113.0,Ottawa,Rejected,Spring,2022,113.0,113.0
+A00560,Canada,Work,2023-09-21,2023-12-12,82.0,Berlin,Approved,Autumn,2023,82.0,82.0
+A00584,Canada,Business,2024-03-30,2024-04-22,23.0,Abu Dhabi,Approved,Spring,2024,23.0,23.0
+A00446,United Kingdom,Employment,2024-04-23,2024-08-14,113.0,Singapore,Approved,Spring,2024,113.0,113.0
+A00868,Philippines,Work,2023-05-05,2023-07-06,62.0,Singapore,Approved,Spring,2023,62.0,62.0
+A00600,China,Permanent Residency,2024-09-01,2025-03-16,196.0,Berlin,Rejected,Autumn,2024,196.0,196.0
+A00850,Kenya,Tourist,2023-11-10,2023-11-29,19.0,Sydney,Rejected,Autumn,2023,19.0,19.0
+A00266,South Africa,Tourist,2024-10-30,2025-05-02,184.0,Ottawa,Approved,Autumn,2024,184.0,184.0
+A00996,Brazil,Tourist,2024-03-09,2024-03-21,12.0,London,Rejected,Spring,2024,12.0,12.0
+A00530,Saudi Arabia,Employment,2023-01-16,2023-05-05,109.0,Sydney,Approved,Winter,2023,109.0,109.0
+A00056,Philippines,Visit,2022-11-17,2022-12-15,28.0,Delhi,Approved,Autumn,2022,28.0,28.0
+A00121,France,Student,2024-10-11,2024-12-26,76.0,Berlin,Rejected,Autumn,2024,76.0,76.0
+A00216,Nigeria,Skilled Migration,2022-08-07,2023-01-14,160.0,Singapore,Approved,Summer,2022,160.0,160.0
+A00026,China,Business,2024-03-12,2024-04-22,41.0,Sydney,Approved,Spring,2024,41.0,41.0
+A00073,Nigeria,Tourist,2024-01-13,2024-02-01,19.0,Sydney,Rejected,Winter,2024,19.0,19.0
+A00045,South Africa,Permanent Residency,2023-07-13,2023-12-27,167.0,Abu Dhabi,Approved,Summer,2023,167.0,167.0
+A00248,Turkey,Tourist,2021-09-03,2021-09-04,1.0,New York,Approved,Autumn,2021,1.0,1.0
+A00722,United Kingdom,Student,2021-08-17,2021-09-21,35.0,Singapore,Approved,Summer,2021,35.0,35.0
+A00282,Kenya,Employment,2021-03-31,2021-06-20,81.0,New York,Approved,Spring,2021,81.0,81.0
+A00915,UAE,Visit,2023-12-21,2024-01-28,38.0,Ottawa,Approved,Winter,2023,38.0,38.0
+A00811,China,Skilled Migration,2021-12-23,2022-05-05,133.0,New York,Approved,Winter,2021,133.0,133.0
+A00245,Nepal,Business,2022-07-09,2022-08-07,29.0,Delhi,Approved,Summer,2022,29.0,29.0
+A00823,Turkey,Employment,2023-09-14,2023-12-05,82.0,New York,Approved,Autumn,2023,82.0,82.0
+A00322,Bangladesh,Skilled Migration,2023-11-26,2024-03-02,97.0,London,Approved,Autumn,2023,97.0,97.0
+A00644,Nepal,Visit,2024-06-29,2024-07-17,18.0,London,Approved,Summer,2024,18.0,18.0
+A00159,Sri Lanka,Work,2024-09-07,2024-11-25,79.0,Delhi,Approved,Autumn,2024,79.0,79.0
+A00978,Australia,Work,2024-10-04,2025-01-05,93.0,Delhi,Approved,Autumn,2024,93.0,93.0
+A00430,Saudi Arabia,Student,2023-06-14,2023-08-11,58.0,Sydney,Approved,Summer,2023,58.0,58.0
+A00942,Nepal,Employment,2021-10-08,2021-12-02,55.0,Sydney,Approved,Autumn,2021,55.0,55.0
+A00463,Philippines,Skilled Migration,2023-12-27,2024-05-26,151.0,Berlin,Approved,Winter,2023,151.0,151.0
+A00310,Pakistan,Student,2021-07-15,2021-09-10,57.0,Berlin,Approved,Summer,2021,57.0,57.0
+A00698,France,Visit,2021-12-08,2022-01-08,31.0,Delhi,Approved,Winter,2021,31.0,31.0
+A00061,Pakistan,Permanent Residency,2022-10-22,2023-06-04,225.0,New York,Approved,Autumn,2022,225.0,225.0
+A00596,Pakistan,Visit,2024-01-02,2024-02-05,34.0,Delhi,Approved,Winter,2024,34.0,34.0
+A00768,France,Employment,2022-12-07,2023-03-17,100.0,New York,Approved,Winter,2022,100.0,100.0
+A00650,Kenya,Skilled Migration,2024-05-16,2024-08-14,90.0,Berlin,Approved,Spring,2024,90.0,90.0
+A00651,UAE,Visit,2024-03-14,2024-04-22,39.0,Sydney,Approved,Spring,2024,39.0,39.0
+A00866,Philippines,Visit,2024-01-10,2024-01-29,19.0,Delhi,Approved,Winter,2024,19.0,19.0
+A00299,Kenya,Permanent Residency,2023-07-28,2024-01-28,184.0,London,Rejected,Summer,2023,184.0,184.0
+A00690,Germany,Skilled Migration,2021-02-16,2021-04-21,64.0,Delhi,Rejected,Winter,2021,64.0,64.0
+A00315,Pakistan,Permanent Residency,2022-02-16,2022-11-22,279.0,Singapore,Approved,Winter,2022,279.0,271.7400000000001
+A00311,Nepal,Work,2024-10-13,2024-12-20,68.0,Berlin,Approved,Autumn,2024,68.0,68.0
+A00362,United States,Skilled Migration,2024-09-06,2025-01-20,136.0,Ottawa,Approved,Autumn,2024,136.0,136.0
+A00480,Philippines,Permanent Residency,2024-12-09,2025-09-08,273.0,Abu Dhabi,Approved,Winter,2024,273.0,271.7400000000001
+A00111,United States,Employment,2024-03-22,2024-07-25,125.0,Delhi,Approved,Spring,2024,125.0,125.0
+A00990,United Kingdom,Visit,2021-11-24,2021-12-07,13.0,Berlin,Approved,Autumn,2021,13.0,13.0
+A00487,India,Student,2022-01-29,2022-03-18,48.0,Singapore,Rejected,Winter,2022,48.0,48.0
+A00364,Brazil,Skilled Migration,2022-01-15,2022-06-18,154.0,Ottawa,Approved,Winter,2022,154.0,154.0
+A00255,Brazil,Work,2022-06-17,2022-09-20,95.0,Ottawa,Approved,Summer,2022,95.0,95.0
+A00260,Saudi Arabia,Employment,2024-12-04,2025-03-17,103.0,New York,Approved,Winter,2024,103.0,103.0
+A00803,Bangladesh,Work,2024-07-31,2024-10-17,78.0,London,Approved,Summer,2024,78.0,78.0
+A00678,South Africa,Permanent Residency,2021-05-16,2022-01-11,240.0,London,Approved,Spring,2021,240.0,240.0
+A00495,Philippines,Business,2021-07-26,2021-12-15,142.0,Berlin,Approved,Summer,2021,142.0,142.0
+A00671,Saudi Arabia,Skilled Migration,2021-11-14,2022-03-30,136.0,Sydney,Rejected,Autumn,2021,136.0,136.0
+A00378,Pakistan,Visit,2021-12-23,2022-02-08,47.0,Delhi,Rejected,Winter,2021,47.0,47.0
+A00527,Australia,Visit,2023-12-19,2023-12-26,7.0,London,Approved,Winter,2023,7.0,7.0
+A00846,Philippines,Skilled Migration,2021-06-17,2021-10-05,110.0,London,Approved,Summer,2021,110.0,110.0
+A00138,Turkey,Skilled Migration,2022-12-01,2023-05-08,158.0,Delhi,Approved,Winter,2022,158.0,158.0
+A00356,France,Tourist,2023-04-07,2023-04-16,9.0,Abu Dhabi,Approved,Spring,2023,9.0,9.0
+A00366,France,Work,2021-03-02,2021-04-25,54.0,Sydney,Rejected,Spring,2021,54.0,54.0
+A00943,Kenya,Skilled Migration,2022-05-10,2022-07-18,69.0,Abu Dhabi,Rejected,Spring,2022,69.0,69.0
+A00750,France,Permanent Residency,2024-02-05,2024-11-10,279.0,Ottawa,Approved,Winter,2024,279.0,271.7400000000001
+A00949,Saudi Arabia,Business,2024-11-06,2024-12-10,34.0,Abu Dhabi,Approved,Autumn,2024,34.0,34.0
+A00830,United Kingdom,Business,2023-07-21,2023-08-20,30.0,New York,Approved,Summer,2023,30.0,30.0
+A00657,Pakistan,Permanent Residency,2022-11-30,2023-10-05,309.0,Ottawa,Approved,Autumn,2022,309.0,271.7400000000001
+A00214,Turkey,Tourist,2022-12-17,2022-12-23,6.0,London,Approved,Winter,2022,6.0,6.0
+A00409,Kenya,Skilled Migration,2024-01-28,2024-06-04,128.0,Ottawa,Approved,Winter,2024,128.0,128.0
+A00333,UAE,Business,2021-05-31,2021-07-10,40.0,Abu Dhabi,Approved,Spring,2021,40.0,40.0
+A00209,South Africa,Skilled Migration,2021-12-29,2022-05-05,127.0,London,Approved,Winter,2021,127.0,127.0
+A00614,South Africa,Visit,2023-05-14,2023-06-07,24.0,New York,Approved,Spring,2023,24.0,24.0
+A00079,South Africa,Business,2023-10-26,2023-11-21,26.0,Berlin,Approved,Autumn,2023,26.0,26.0
+A00030,Turkey,Student,2023-06-09,2023-08-28,80.0,Singapore,Approved,Summer,2023,80.0,80.0
+A00536,Canada,Student,2021-01-12,2021-02-23,42.0,New York,Approved,Winter,2021,42.0,42.0
+A00696,Turkey,Employment,2022-02-17,2022-06-30,133.0,Singapore,Approved,Winter,2022,133.0,133.0
+A00558,Brazil,Employment,2024-01-11,2024-05-01,111.0,Delhi,Approved,Winter,2024,111.0,111.0
+A00837,Kenya,Work,2023-07-24,2023-09-21,59.0,Ottawa,Approved,Summer,2023,59.0,59.0
+A00597,France,Business,2022-02-26,2022-03-25,27.0,Abu Dhabi,Approved,Winter,2022,27.0,27.0
+A00166,Pakistan,Business,2024-05-13,2024-07-12,60.0,Sydney,Approved,Spring,2024,60.0,60.0
+A00919,Nigeria,Employment,2022-12-07,2023-03-01,84.0,Berlin,Approved,Winter,2022,84.0,84.0
+A00496,Kenya,Tourist,2023-07-01,2023-07-24,23.0,Sydney,Approved,Summer,2023,23.0,23.0
+A00825,France,Permanent Residency,2021-07-10,2022-01-20,194.0,Singapore,Rejected,Summer,2021,194.0,194.0
+A00066,Bangladesh,Work,2024-09-11,2024-12-27,107.0,Ottawa,Approved,Autumn,2024,107.0,107.0
+A00142,Germany,Visit,2024-03-31,2024-04-20,20.0,London,Approved,Spring,2024,20.0,20.0
+A00926,Germany,Visit,2023-06-22,2023-07-08,16.0,Abu Dhabi,Approved,Summer,2023,16.0,16.0
+A00828,Sri Lanka,Student,2022-04-11,2022-06-25,75.0,Delhi,Approved,Spring,2022,75.0,75.0
+A00656,Kenya,Tourist,2022-08-04,2022-08-28,24.0,Delhi,Approved,Summer,2022,24.0,24.0
+A00332,France,Tourist,2023-06-20,2023-07-07,17.0,Abu Dhabi,Approved,Summer,2023,17.0,17.0
+A00250,United Kingdom,Permanent Residency,2023-08-23,2023-12-29,128.0,Abu Dhabi,Rejected,Summer,2023,128.0,128.0
+A00908,Canada,Business,2024-12-27,2025-01-24,28.0,London,Approved,Winter,2024,28.0,28.0
+A00709,United Kingdom,Work,2021-11-18,2022-02-23,97.0,Abu Dhabi,Approved,Autumn,2021,97.0,97.0
+A00306,United States,Permanent Residency,2022-12-31,2023-07-28,209.0,Singapore,Approved,Winter,2022,209.0,209.0
+A00976,Nigeria,Work,2021-09-06,2021-12-11,96.0,Ottawa,Approved,Autumn,2021,96.0,96.0
+A00050,Kenya,Business,2022-01-06,2022-02-08,33.0,Delhi,Approved,Winter,2022,33.0,33.0
+A00897,Australia,Skilled Migration,2024-04-18,2024-06-29,72.0,Sydney,Approved,Spring,2024,72.0,72.0
+A00003,Brazil,Skilled Migration,2024-09-13,2025-01-22,131.0,New York,Approved,Autumn,2024,131.0,131.0
+A00545,Turkey,Permanent Residency,2021-09-21,2022-05-24,245.0,Ottawa,Approved,Autumn,2021,245.0,245.0
+A00351,UAE,Business,2021-07-05,2021-08-22,48.0,Delhi,Approved,Summer,2021,48.0,48.0
+A00905,United Kingdom,Tourist,2024-02-23,2024-03-25,31.0,Sydney,Approved,Winter,2024,31.0,31.0
+A00345,India,Business,2023-07-06,2023-07-27,21.0,London,Approved,Summer,2023,21.0,21.0
+A00995,United States,Permanent Residency,2022-03-17,2022-10-19,216.0,Sydney,Rejected,Spring,2022,216.0,216.0
+A00482,United States,Skilled Migration,2023-09-06,2023-12-31,116.0,Sydney,Rejected,Autumn,2023,116.0,116.0
+A00576,UAE,Permanent Residency,2022-01-21,2022-08-10,201.0,Abu Dhabi,Rejected,Winter,2022,201.0,201.0
+A00034,Sri Lanka,Employment,2024-02-21,2024-04-25,64.0,Berlin,Approved,Winter,2024,64.0,64.0
+A00032,Philippines,Employment,2021-12-18,2022-04-01,104.0,New York,Approved,Winter,2021,104.0,104.0
+A00232,Nigeria,Work,2024-01-06,2024-03-24,78.0,Sydney,Approved,Winter,2024,78.0,78.0
+A00964,Bangladesh,Work,2023-07-17,2023-11-03,109.0,New York,Approved,Summer,2023,109.0,109.0
+A00193,South Africa,Business,2021-04-03,2021-05-03,30.0,Abu Dhabi,Approved,Spring,2021,30.0,30.0
+A00334,Kenya,Skilled Migration,2021-06-20,2021-10-20,122.0,Singapore,Approved,Summer,2021,122.0,122.0
+A00004,Nigeria,Work,2022-10-21,2023-01-08,79.0,London,Rejected,Autumn,2022,79.0,79.0
+A00205,Canada,Work,2021-09-24,2021-12-04,71.0,Singapore,Approved,Autumn,2021,71.0,71.0
+A00515,UAE,Student,2023-06-03,2023-07-22,49.0,New York,Approved,Summer,2023,49.0,49.0
+A00800,United States,Work,2024-05-11,2024-07-07,57.0,Abu Dhabi,Approved,Spring,2024,57.0,57.0
+A00307,Sri Lanka,Employment,2022-03-01,2022-06-25,116.0,New York,Approved,Spring,2022,116.0,116.0
+A00110,Nepal,Student,2022-11-26,2023-01-29,64.0,Abu Dhabi,Approved,Autumn,2022,64.0,64.0
+A00431,Nepal,Work,2023-04-28,2023-08-06,100.0,Delhi,Approved,Spring,2023,100.0,100.0
+A00078,Sri Lanka,Business,2024-08-06,2024-08-28,22.0,New York,Approved,Summer,2024,22.0,22.0
+A00287,China,Skilled Migration,2023-11-01,2024-03-29,149.0,New York,Approved,Autumn,2023,149.0,149.0
+A00083,Kenya,Permanent Residency,2023-03-10,2023-08-27,170.0,New York,Rejected,Spring,2023,170.0,170.0
+A00992,Turkey,Work,2021-02-20,2021-06-02,102.0,Singapore,Approved,Winter,2021,102.0,102.0
+A00790,China,Visit,2024-01-22,2024-02-10,19.0,Abu Dhabi,Approved,Winter,2024,19.0,19.0
+A00895,Bangladesh,Tourist,2024-10-09,2024-10-30,21.0,Berlin,Rejected,Autumn,2024,21.0,21.0
+A00399,Australia,Permanent Residency,2022-06-28,2023-03-03,248.0,Singapore,Approved,Summer,2022,248.0,248.0
+A00324,Nigeria,Permanent Residency,2023-04-05,2023-08-11,128.0,Singapore,Approved,Spring,2023,128.0,128.0
+A00520,Kenya,Student,2021-03-17,2021-05-18,62.0,New York,Approved,Spring,2021,62.0,62.0
+A00917,India,Skilled Migration,2024-07-24,2024-09-23,61.0,Delhi,Approved,Summer,2024,61.0,61.0
+A00923,Kenya,Work,2024-08-15,2024-11-12,89.0,Abu Dhabi,Approved,Summer,2024,89.0,89.0
+A00006,UAE,Permanent Residency,2021-06-04,2022-01-11,221.0,Abu Dhabi,Approved,Summer,2021,221.0,221.0
+A00732,Saudi Arabia,Business,2023-05-07,2023-05-29,22.0,Abu Dhabi,Approved,Spring,2023,22.0,22.0
+A00466,Pakistan,Work,2022-05-02,2022-07-23,82.0,Delhi,Rejected,Spring,2022,82.0,82.0
+A00098,Philippines,Skilled Migration,2021-04-10,2021-08-04,116.0,Delhi,Approved,Spring,2021,116.0,116.0
+A00267,Saudi Arabia,Student,2021-03-30,2021-06-16,78.0,Sydney,Approved,Spring,2021,78.0,78.0
+A00358,Philippines,Visit,2024-02-23,2024-03-09,15.0,Berlin,Approved,Winter,2024,15.0,15.0
+A00869,United Kingdom,Student,2024-03-27,2024-05-09,43.0,Singapore,Approved,Spring,2024,43.0,43.0
+A00799,Australia,Work,2024-11-27,2025-02-18,83.0,Ottawa,Rejected,Autumn,2024,83.0,83.0
+A00381,Bangladesh,Visit,2021-07-23,2021-08-31,39.0,Ottawa,Rejected,Summer,2021,39.0,39.0
+A00632,UAE,Work,2023-01-04,2023-03-29,84.0,Singapore,Approved,Winter,2023,84.0,84.0
+A00382,India,Student,2024-03-16,2024-03-27,11.0,Sydney,Rejected,Spring,2024,11.0,11.0
+A00491,Canada,Skilled Migration,2023-01-11,2023-05-19,128.0,London,Approved,Winter,2023,128.0,128.0
+A00901,France,Business,2024-01-29,2024-02-28,30.0,Singapore,Approved,Winter,2024,30.0,30.0
+A00251,Sri Lanka,Work,2024-06-02,2024-09-16,106.0,Ottawa,Rejected,Summer,2024,106.0,106.0
+A00524,UAE,Visit,2024-05-25,2024-06-24,30.0,Ottawa,Approved,Spring,2024,30.0,30.0
+A00010,China,Permanent Residency,2023-12-18,2024-07-05,200.0,New York,Approved,Winter,2023,200.0,200.0
+A00197,Turkey,Permanent Residency,2021-03-07,2021-08-26,172.0,New York,Approved,Spring,2021,172.0,172.0
+A00604,Bangladesh,Permanent Residency,2021-08-30,2022-02-07,161.0,Abu Dhabi,Approved,Summer,2021,161.0,161.0
+A00784,Turkey,Work,2023-10-31,2024-01-16,77.0,Sydney,Approved,Autumn,2023,77.0,77.0
+A00588,Kenya,Student,2024-06-11,2024-08-07,57.0,London,Approved,Summer,2024,57.0,57.0
+A00798,France,Permanent Residency,2023-09-08,2024-03-17,191.0,Berlin,Rejected,Autumn,2023,191.0,191.0
+A00240,France,Student,2024-03-15,2024-05-01,47.0,Abu Dhabi,Approved,Spring,2024,47.0,47.0
+A00291,Saudi Arabia,Visit,2022-05-27,2022-06-20,24.0,Berlin,Approved,Spring,2022,24.0,24.0
+A00212,South Africa,Employment,2024-03-11,2024-07-01,112.0,New York,Approved,Spring,2024,112.0,112.0
+A00718,Turkey,Work,2024-09-18,2024-12-08,81.0,Berlin,Approved,Autumn,2024,81.0,81.0
+A00360,Australia,Business,2024-10-19,2024-11-13,25.0,Sydney,Approved,Autumn,2024,25.0,25.0
+A00450,Saudi Arabia,Tourist,2023-11-03,2024-05-03,182.0,Ottawa,Approved,Autumn,2023,182.0,182.0
+A00228,South Africa,Skilled Migration,2022-09-16,2022-12-10,85.0,Sydney,Approved,Autumn,2022,85.0,85.0
+A00951,Nigeria,Student,2021-03-06,2021-05-24,79.0,Singapore,Approved,Spring,2021,79.0,79.0
+A00947,India,Skilled Migration,2021-02-22,2021-08-05,164.0,London,Approved,Winter,2021,164.0,164.0
+A00797,Nigeria,Student,2022-02-20,2022-05-23,92.0,Delhi,Approved,Winter,2022,92.0,92.0
+A00502,Canada,Business,2022-04-19,2022-05-24,35.0,Berlin,Approved,Spring,2022,35.0,35.0
+A00465,Saudi Arabia,Tourist,2024-12-20,2025-01-05,16.0,Abu Dhabi,Approved,Winter,2024,16.0,16.0
+A00363,South Africa,Student,2024-06-17,2024-09-06,81.0,London,Rejected,Summer,2024,81.0,81.0
+A00469,Australia,Employment,2022-04-06,2022-05-14,38.0,Ottawa,Approved,Spring,2022,38.0,38.0
+A00936,Turkey,Tourist,2022-04-23,2022-05-15,22.0,New York,Approved,Spring,2022,22.0,22.0
+A00429,Saudi Arabia,Student,2023-06-19,2023-09-11,84.0,New York,Approved,Summer,2023,84.0,84.0
+A00008,Turkey,Student,2021-11-06,2021-12-31,55.0,New York,Approved,Autumn,2021,55.0,55.0
+A00156,Germany,Business,2023-07-04,2023-08-06,33.0,Berlin,Rejected,Summer,2023,33.0,33.0
+A00542,Kenya,Employment,2024-10-28,2025-01-13,77.0,Ottawa,Rejected,Autumn,2024,77.0,77.0
+A00441,Germany,Visit,2023-10-12,2023-10-26,14.0,Berlin,Approved,Autumn,2023,14.0,14.0
+A00483,Philippines,Business,2021-01-24,2021-02-19,26.0,Berlin,Rejected,Winter,2021,26.0,26.0
+A00423,UAE,Visit,2023-01-26,2023-02-13,18.0,Singapore,Approved,Winter,2023,18.0,18.0
+A00779,United Kingdom,Visit,2022-10-14,2022-10-25,11.0,New York,Rejected,Autumn,2022,11.0,11.0
+A00335,Saudi Arabia,Business,2024-01-28,2024-03-20,52.0,Ottawa,Approved,Winter,2024,52.0,52.0
+A00577,Saudi Arabia,Tourist,2021-12-20,2021-12-28,8.0,London,Approved,Winter,2021,8.0,8.0
+A00935,Canada,Work,2022-10-22,2023-01-28,98.0,Sydney,Approved,Autumn,2022,98.0,98.0
+A00568,Philippines,Employment,2021-12-09,2022-08-17,251.0,Sydney,Approved,Winter,2021,251.0,251.0
+A00595,Brazil,Visit,2024-03-13,2024-03-31,18.0,New York,Approved,Spring,2024,18.0,18.0
+A00531,United Kingdom,Student,2022-08-01,2022-10-03,63.0,Delhi,Approved,Summer,2022,63.0,63.0
+A00582,Germany,Tourist,2022-05-04,2022-05-21,17.0,Abu Dhabi,Rejected,Spring,2022,17.0,17.0
+A00708,Australia,Work,2022-03-08,2022-05-12,65.0,Delhi,Approved,Spring,2022,65.0,65.0
+A00449,Brazil,Visit,2022-09-07,2022-09-28,21.0,London,Approved,Autumn,2022,21.0,21.0
+A00454,Australia,Tourist,2023-03-28,2023-04-14,17.0,Delhi,Approved,Spring,2023,17.0,17.0
+A00229,Germany,Student,2021-10-01,2021-12-04,64.0,New York,Approved,Autumn,2021,64.0,64.0
+A00353,Pakistan,Visit,2021-08-23,2021-09-08,16.0,New York,Approved,Summer,2021,16.0,16.0
+A00729,Nigeria,Employment,2021-02-09,2021-06-13,124.0,Ottawa,Approved,Winter,2021,124.0,124.0
+A00213,Germany,Student,2024-08-28,2024-11-02,66.0,New York,Approved,Summer,2024,66.0,66.0
+A00080,Philippines,Work,2021-06-06,2021-07-20,44.0,Singapore,Approved,Summer,2021,44.0,44.0
+A00149,Canada,Tourist,2023-01-02,2023-02-01,30.0,Ottawa,Approved,Winter,2023,30.0,30.0
+A00303,United Kingdom,Permanent Residency,2024-04-09,2024-07-25,107.0,Abu Dhabi,Approved,Spring,2024,107.0,107.0
+A00629,Bangladesh,Employment,2022-12-17,2023-02-21,66.0,Delhi,Approved,Winter,2022,66.0,66.0
+A00778,Pakistan,Employment,2023-10-18,2023-12-24,67.0,Berlin,Approved,Autumn,2023,67.0,67.0
+A00507,India,Skilled Migration,2023-12-09,2024-04-09,122.0,New York,Approved,Winter,2023,122.0,122.0
+A00343,Bangladesh,Student,2023-09-08,2023-11-08,61.0,Ottawa,Approved,Autumn,2023,61.0,61.0
+A00486,Brazil,Business,2022-01-11,2022-02-18,38.0,London,Approved,Winter,2022,38.0,38.0
+A00712,Turkey,Employment,2024-06-14,2024-10-15,123.0,Berlin,Rejected,Summer,2024,123.0,123.0
+A00134,UAE,Visit,2023-09-16,2023-10-11,25.0,Berlin,Approved,Autumn,2023,25.0,25.0
+A00704,Bangladesh,Skilled Migration,2021-02-04,2021-05-13,98.0,Sydney,Approved,Winter,2021,98.0,98.0
+A00312,United Kingdom,Visit,2023-04-30,2023-05-23,23.0,Sydney,Approved,Spring,2023,23.0,23.0
+A00723,Nepal,Work,2021-07-15,2021-09-21,68.0,Singapore,Approved,Summer,2021,68.0,68.0
+A00630,Turkey,Permanent Residency,2024-01-15,2024-09-17,246.0,Delhi,Approved,Winter,2024,246.0,246.0
+A00001,Kenya,Permanent Residency,2023-01-31,2023-08-15,196.0,Singapore,Approved,Winter,2023,196.0,196.0
+A00707,South Africa,Business,2024-04-10,2024-05-08,28.0,New York,Approved,Spring,2024,28.0,28.0
+A00548,Bangladesh,Skilled Migration,2023-04-08,2023-08-17,131.0,Singapore,Approved,Spring,2023,131.0,131.0
+A00873,Brazil,Work,2024-09-18,2024-11-30,73.0,Singapore,Approved,Autumn,2024,73.0,73.0
+A00533,France,Business,2024-10-04,2024-10-31,27.0,New York,Approved,Autumn,2024,27.0,27.0
+A00478,Sri Lanka,Permanent Residency,2023-04-02,2023-12-31,273.0,Berlin,Approved,Spring,2023,273.0,271.7400000000001
+A00405,South Africa,Permanent Residency,2023-06-18,2023-12-26,191.0,Sydney,Approved,Summer,2023,191.0,191.0
+A00173,Turkey,Employment,2021-09-14,2021-12-11,88.0,New York,Approved,Autumn,2021,88.0,88.0
+A00395,Australia,Visit,2024-04-13,2024-04-23,10.0,New York,Rejected,Spring,2024,10.0,10.0
+A00421,India,Visit,2024-04-06,2024-04-28,22.0,Delhi,Approved,Spring,2024,22.0,22.0
+A00553,Nigeria,Permanent Residency,2023-12-31,2024-08-04,217.0,Singapore,Rejected,Winter,2023,217.0,217.0
+A00904,France,Student,2022-10-05,2022-12-21,77.0,Sydney,Approved,Autumn,2022,77.0,77.0
+A00091,Turkey,Work,2023-02-08,2023-04-06,57.0,Delhi,Approved,Winter,2023,57.0,57.0
+A00940,Australia,Tourist,2023-01-28,2023-02-14,17.0,New York,Approved,Winter,2023,17.0,17.0
+A00182,South Africa,Visit,2024-02-26,2024-04-01,35.0,Sydney,Approved,Winter,2024,35.0,35.0
+A00275,France,Visit,2021-10-08,2021-10-25,17.0,Singapore,Approved,Autumn,2021,17.0,17.0
+A00896,Germany,Visit,2023-07-04,2023-07-25,21.0,New York,Approved,Summer,2023,21.0,21.0
+A00070,China,Business,2021-07-14,2021-08-14,31.0,Singapore,Approved,Summer,2021,31.0,31.0
+A00292,Brazil,Business,2023-04-21,2023-05-09,18.0,London,Approved,Spring,2023,18.0,18.0
+A00132,UAE,Student,2023-05-03,2023-08-01,90.0,Sydney,Approved,Spring,2023,90.0,90.0
+A00301,Australia,Permanent Residency,2022-04-16,2022-09-30,167.0,London,Rejected,Spring,2022,167.0,167.0
+A00327,UAE,Visit,2024-11-05,2024-11-20,15.0,New York,Approved,Autumn,2024,15.0,15.0
+A00145,India,Business,2023-11-24,2023-12-29,35.0,Singapore,Approved,Autumn,2023,35.0,35.0
+A00424,Canada,Business,2021-01-23,2021-02-07,15.0,Delhi,Approved,Winter,2021,15.0,15.0
+A00581,Nigeria,Tourist,2022-06-04,2022-06-20,16.0,Singapore,Approved,Summer,2022,16.0,16.0
+A00136,UAE,Business,2022-09-01,2022-10-18,47.0,Sydney,Approved,Autumn,2022,47.0,47.0
+A00451,UAE,Employment,2024-07-06,2024-10-07,93.0,Abu Dhabi,Rejected,Summer,2024,93.0,93.0
+A00165,UAE,Student,2022-09-17,2022-12-12,86.0,Sydney,Approved,Autumn,2022,86.0,86.0
+A00029,Sri Lanka,Employment,2024-02-17,2024-07-09,143.0,London,Approved,Winter,2024,143.0,143.0
+A00774,China,Skilled Migration,2022-07-09,2022-11-02,116.0,Singapore,Rejected,Summer,2022,116.0,116.0
+A00194,Bangladesh,Business,2021-02-08,2021-03-13,33.0,Abu Dhabi,Approved,Winter,2021,33.0,33.0
+A00389,India,Permanent Residency,2021-05-11,2021-12-28,231.0,Delhi,Approved,Spring,2021,231.0,231.0
+A00853,South Africa,Permanent Residency,2021-05-29,2021-12-06,191.0,Sydney,Rejected,Spring,2021,191.0,191.0
+A00170,Bangladesh,Student,2024-07-08,2024-08-30,53.0,Singapore,Approved,Summer,2024,53.0,53.0
+A00706,Philippines,Permanent Residency,2024-08-23,2025-03-21,210.0,Delhi,Approved,Summer,2024,210.0,210.0
+A00141,Bangladesh,Permanent Residency,2023-08-21,2024-04-14,237.0,Abu Dhabi,Approved,Summer,2023,237.0,237.0
+A00174,Saudi Arabia,Work,2022-06-21,2023-03-18,270.0,New York,Rejected,Summer,2022,270.0,270.0
+A00007,China,Visit,2022-02-19,2022-03-16,25.0,London,Approved,Winter,2022,25.0,25.0
+A00746,Sri Lanka,Student,2024-03-07,2024-05-02,56.0,London,Approved,Spring,2024,56.0,56.0
+A00479,United States,Employment,2022-10-21,2023-01-02,73.0,London,Approved,Autumn,2022,73.0,73.0
+A00074,Kenya,Work,2021-05-12,2021-07-24,73.0,Delhi,Rejected,Spring,2021,73.0,73.0
+A00911,Australia,Work,2023-04-28,2023-06-26,59.0,Delhi,Approved,Spring,2023,59.0,59.0
+A00814,United Kingdom,Employment,2023-06-14,2023-08-25,72.0,Berlin,Approved,Summer,2023,72.0,72.0
+A00239,Pakistan,Tourist,2023-04-25,2023-05-05,10.0,Singapore,Rejected,Spring,2023,10.0,10.0
+A00146,Philippines,Business,2022-08-30,2022-10-01,32.0,Berlin,Rejected,Summer,2022,32.0,32.0
+A00793,UAE,Employment,2021-04-29,2021-08-09,102.0,London,Rejected,Spring,2021,102.0,102.0
+A00221,United States,Work,2023-05-23,2023-07-28,66.0,Abu Dhabi,Approved,Spring,2023,66.0,66.0
+A00924,Philippines,Business,2023-01-29,2023-03-15,45.0,Delhi,Rejected,Winter,2023,45.0,45.0
+A00501,India,Business,2021-09-02,2021-09-30,28.0,Ottawa,Approved,Autumn,2021,28.0,28.0
+A00133,South Africa,Visit,2024-01-11,2024-01-28,17.0,London,Approved,Winter,2024,17.0,17.0
+A00991,Sri Lanka,Work,2024-07-07,2024-09-01,56.0,London,Approved,Summer,2024,56.0,56.0
+A00775,United States,Permanent Residency,2021-12-05,2022-06-04,181.0,Ottawa,Rejected,Winter,2021,181.0,181.0
+A00186,United Kingdom,Student,2021-04-02,2021-06-11,70.0,Singapore,Approved,Spring,2021,70.0,70.0
+A00042,South Africa,Tourist,2021-09-06,2021-09-28,22.0,Ottawa,Approved,Autumn,2021,22.0,22.0
+A00697,Brazil,Skilled Migration,2024-04-06,2024-07-08,93.0,Singapore,Approved,Spring,2024,93.0,93.0
+A00109,France,Employment,2023-11-02,2024-02-17,107.0,Ottawa,Rejected,Autumn,2023,107.0,107.0
+A00589,Turkey,Student,2023-03-05,2023-04-25,51.0,Delhi,Approved,Spring,2023,51.0,51.0
+A00057,China,Tourist,2024-04-10,2024-04-24,14.0,Berlin,Rejected,Spring,2024,14.0,14.0
+A00406,Sri Lanka,Visit,2023-07-09,2023-07-28,19.0,Berlin,Approved,Summer,2023,19.0,19.0
+A00443,Nepal,Work,2022-07-23,2022-10-27,96.0,Singapore,Approved,Summer,2022,96.0,96.0
+A00758,Philippines,Tourist,2024-10-01,2024-10-07,6.0,Delhi,Approved,Autumn,2024,6.0,6.0
+A00998,Bangladesh,Work,2024-06-02,2024-08-04,63.0,London,Rejected,Summer,2024,63.0,63.0
+A00025,China,Skilled Migration,2024-06-25,2024-11-23,151.0,Ottawa,Approved,Summer,2024,151.0,151.0
+A00468,Germany,Work,2022-07-30,2022-10-06,68.0,London,Approved,Summer,2022,68.0,68.0
+A00540,Brazil,Skilled Migration,2021-08-22,2022-02-20,182.0,Singapore,Approved,Summer,2021,182.0,182.0
+A00619,Brazil,Tourist,2023-06-13,2023-06-28,15.0,London,Approved,Summer,2023,15.0,15.0
+A00695,Australia,Visit,2023-08-12,2023-08-23,11.0,Berlin,Approved,Summer,2023,11.0,11.0
+A00927,Nigeria,Visit,2022-10-09,2022-10-31,22.0,Berlin,Approved,Autumn,2022,22.0,22.0
+A00339,France,Skilled Migration,2022-09-15,2023-03-11,177.0,Abu Dhabi,Approved,Autumn,2022,177.0,177.0
+A00052,Kenya,Permanent Residency,2022-12-21,2023-05-13,143.0,Abu Dhabi,Rejected,Winter,2022,143.0,143.0
+A00508,Pakistan,Visit,2022-09-06,2022-09-29,23.0,Delhi,Approved,Autumn,2022,23.0,23.0
+A00517,United States,Visit,2023-08-08,2023-08-22,14.0,New York,Approved,Summer,2023,14.0,14.0
+A00921,Germany,Employment,2023-11-20,2024-02-11,83.0,Delhi,Approved,Autumn,2023,83.0,83.0
+A00782,Canada,Student,2024-04-21,2024-07-31,101.0,Abu Dhabi,Approved,Spring,2024,101.0,101.0
+A00265,China,Employment,2024-05-25,2024-08-18,85.0,New York,Approved,Spring,2024,85.0,85.0
+A00818,India,Skilled Migration,2024-05-01,2024-07-06,66.0,Berlin,Approved,Spring,2024,66.0,66.0
+A00711,France,Student,2021-02-25,2021-04-26,60.0,London,Approved,Winter,2021,60.0,60.0
+A00683,Kenya,Employment,2022-06-25,2022-07-30,35.0,New York,Approved,Summer,2022,35.0,35.0
+A00833,United Kingdom,Student,2022-10-25,2023-01-14,81.0,Sydney,Approved,Autumn,2022,81.0,81.0
+A00519,UAE,Permanent Residency,2021-09-15,2022-02-20,158.0,London,Rejected,Autumn,2021,158.0,158.0
+A00448,Bangladesh,Student,2023-10-15,2023-11-22,38.0,Berlin,Approved,Autumn,2023,38.0,38.0
+A00019,Australia,Business,2021-02-27,2021-04-04,36.0,Delhi,Approved,Winter,2021,36.0,36.0
+A00716,Australia,Employment,2022-06-16,2022-09-03,79.0,Berlin,Approved,Summer,2022,79.0,79.0
+A00484,France,Student,2022-03-01,2022-05-17,77.0,Sydney,Approved,Spring,2022,77.0,77.0
+A00569,Nepal,Visit,2021-01-06,2021-01-26,20.0,New York,Approved,Winter,2021,20.0,20.0
+A00434,UAE,Skilled Migration,2022-11-06,2023-02-28,114.0,Berlin,Approved,Autumn,2022,114.0,114.0
+A00368,Brazil,Permanent Residency,2024-12-06,2025-04-18,133.0,Berlin,Approved,Winter,2024,133.0,133.0
+A00062,France,Employment,2022-07-20,2022-11-24,127.0,Delhi,Approved,Summer,2022,127.0,127.0
+A00639,UAE,Visit,2021-09-27,2021-10-19,22.0,Berlin,Approved,Autumn,2021,22.0,22.0
+A00273,United States,Skilled Migration,2021-06-28,2022-01-02,188.0,Delhi,Rejected,Summer,2021,188.0,188.0
+A00286,Saudi Arabia,Student,2022-04-10,2022-11-07,211.0,Abu Dhabi,Approved,Spring,2022,211.0,211.0
+A00361,United States,Skilled Migration,2024-01-10,2024-05-30,141.0,Abu Dhabi,Approved,Winter,2024,141.0,141.0
+A00355,Saudi Arabia,Skilled Migration,2024-04-05,2024-07-31,117.0,Sydney,Approved,Spring,2024,117.0,117.0
+A00457,Australia,Skilled Migration,2024-08-05,2024-12-05,122.0,New York,Approved,Summer,2024,122.0,122.0
+A00279,France,Visit,2021-05-14,2021-06-02,19.0,London,Approved,Spring,2021,19.0,19.0
+A00013,Pakistan,Work,2022-01-02,2022-03-27,84.0,Ottawa,Approved,Winter,2022,84.0,84.0
+A00183,China,Tourist,2023-11-25,2023-12-09,14.0,London,Approved,Autumn,2023,14.0,14.0
+A00369,United Kingdom,Work,2021-09-29,2022-01-04,97.0,Singapore,Rejected,Autumn,2021,97.0,97.0
+A00882,Turkey,Work,2024-05-20,2024-07-12,53.0,New York,Rejected,Spring,2024,53.0,53.0
+A00616,Turkey,Permanent Residency,2023-08-10,2024-01-25,168.0,New York,Approved,Summer,2023,168.0,168.0
+A00224,Nepal,Student,2022-08-12,2022-10-07,56.0,Singapore,Approved,Summer,2022,56.0,56.0
+A00573,Turkey,Visit,2022-09-10,2022-09-27,17.0,Berlin,Approved,Autumn,2022,17.0,17.0
+A00971,Nigeria,Visit,2024-01-15,2024-01-26,11.0,New York,Approved,Winter,2024,11.0,11.0
+A00654,Bangladesh,Visit,2022-08-02,2022-08-10,8.0,Berlin,Approved,Summer,2022,8.0,8.0
+A00546,Sri Lanka,Permanent Residency,2024-08-07,2025-01-18,164.0,New York,Approved,Summer,2024,164.0,164.0
+A00583,Turkey,Visit,2022-11-24,2022-12-20,26.0,Ottawa,Approved,Autumn,2022,26.0,26.0
+A00177,Philippines,Business,2023-11-09,2023-12-07,28.0,Berlin,Approved,Autumn,2023,28.0,28.0
+A00666,Turkey,Employment,2021-05-02,2021-07-19,78.0,Sydney,Approved,Spring,2021,78.0,78.0
+A00674,France,Visit,2024-08-10,2024-09-02,23.0,New York,Approved,Summer,2024,23.0,23.0
+A00586,Brazil,Business,2024-09-17,2024-10-18,31.0,New York,Approved,Autumn,2024,31.0,31.0
+A00874,Kenya,Tourist,2024-05-17,2024-06-14,28.0,Sydney,Approved,Spring,2024,28.0,28.0
+A00394,Kenya,Skilled Migration,2021-08-15,2021-11-27,104.0,Singapore,Approved,Summer,2021,104.0,104.0
+A00164,Nigeria,Work,2024-12-02,2025-02-06,66.0,Delhi,Approved,Winter,2024,66.0,66.0
+A00249,Pakistan,Tourist,2024-07-22,2024-08-06,15.0,Sydney,Approved,Summer,2024,15.0,15.0
+A00635,Nigeria,Work,2022-08-06,2022-10-08,63.0,New York,Approved,Summer,2022,63.0,63.0
+A00886,UAE,Skilled Migration,2023-11-03,2024-03-20,138.0,Ottawa,Approved,Autumn,2023,138.0,138.0
+A00670,Sri Lanka,Permanent Residency,2022-02-06,2022-10-15,251.0,Delhi,Rejected,Winter,2022,251.0,251.0
+A00376,Australia,Work,2022-09-27,2022-11-30,64.0,Berlin,Rejected,Autumn,2022,64.0,64.0
+A00413,Bangladesh,Permanent Residency,2024-06-17,2025-01-04,201.0,Berlin,Approved,Summer,2024,201.0,201.0
+A00075,Philippines,Business,2024-09-04,2024-10-12,38.0,Abu Dhabi,Rejected,Autumn,2024,38.0,38.0
+A00114,South Africa,Business,2022-11-11,2022-12-20,39.0,Delhi,Approved,Autumn,2022,39.0,39.0
+A00599,India,Skilled Migration,2021-05-15,2021-08-07,84.0,Sydney,Approved,Spring,2021,84.0,84.0
+A00962,Germany,Student,2022-06-01,2022-08-02,62.0,Delhi,Rejected,Summer,2022,62.0,62.0
+A00391,United Kingdom,Student,2021-09-02,2021-11-15,74.0,Abu Dhabi,Approved,Autumn,2021,74.0,74.0
+A00115,China,Employment,2024-11-21,2025-03-24,123.0,Berlin,Approved,Autumn,2024,123.0,123.0
+A00418,Nigeria,Visit,2021-10-16,2021-11-16,31.0,Delhi,Approved,Autumn,2021,31.0,31.0
+A00526,Nigeria,Permanent Residency,2022-12-21,2023-07-24,215.0,London,Approved,Winter,2022,215.0,215.0
+A00458,Sri Lanka,Employment,2024-12-11,2025-03-31,110.0,Singapore,Approved,Winter,2024,110.0,110.0
+A00410,Philippines,Skilled Migration,2024-10-11,2025-02-13,125.0,London,Approved,Autumn,2024,125.0,125.0
+A00093,South Africa,Permanent Residency,2024-11-22,2025-03-31,129.0,London,Approved,Autumn,2024,129.0,129.0
+A00931,France,Skilled Migration,2022-10-30,2023-03-01,122.0,Ottawa,Rejected,Autumn,2022,122.0,122.0
+A00090,United States,Employment,2023-10-14,2024-02-03,112.0,New York,Approved,Autumn,2023,112.0,112.0
+A00337,Canada,Visit,2023-06-02,2023-07-11,39.0,Sydney,Approved,Summer,2023,39.0,39.0
+A00989,South Africa,Skilled Migration,2023-04-09,2023-09-02,146.0,Ottawa,Approved,Spring,2023,146.0,146.0
+A00922,Canada,Student,2022-10-04,2022-12-07,64.0,London,Approved,Autumn,2022,64.0,64.0
+A00934,Turkey,Visit,2024-07-26,2024-08-19,24.0,Singapore,Approved,Summer,2024,24.0,24.0
+A00594,France,Skilled Migration,2023-07-03,2023-09-27,86.0,New York,Approved,Summer,2023,86.0,86.0
+A00612,Sri Lanka,Business,2024-11-10,2024-12-22,42.0,London,Rejected,Autumn,2024,42.0,42.0
+A00095,China,Employment,2021-02-11,2021-05-02,80.0,Ottawa,Approved,Winter,2021,80.0,80.0
+A00012,United States,Employment,2023-11-21,2024-02-29,100.0,Sydney,Approved,Autumn,2023,100.0,100.0
+A00397,China,Visit,2023-04-19,2023-05-03,14.0,Sydney,Approved,Spring,2023,14.0,14.0
+A00534,Nepal,Permanent Residency,2021-01-29,2021-03-30,60.0,Singapore,Rejected,Winter,2021,60.0,60.0
+A00044,Canada,Visit,2022-11-29,2022-12-28,29.0,Sydney,Approved,Autumn,2022,29.0,29.0
+A00043,France,Skilled Migration,2024-01-30,2024-06-08,130.0,Berlin,Approved,Winter,2024,130.0,130.0
+A00330,Pakistan,Skilled Migration,2023-09-30,2024-02-06,129.0,Delhi,Rejected,Autumn,2023,129.0,129.0
+A00168,Canada,Student,2021-06-22,2021-08-23,62.0,Sydney,Approved,Summer,2021,62.0,62.0
+A00498,Bangladesh,Business,2021-04-28,2021-06-01,34.0,Abu Dhabi,Approved,Spring,2021,34.0,34.0
+A00877,Kenya,Permanent Residency,2024-05-11,2024-09-20,132.0,London,Approved,Spring,2024,132.0,132.0
+A00598,France,Visit,2021-02-19,2021-03-11,20.0,London,Approved,Winter,2021,20.0,20.0
+A00757,Sri Lanka,Business,2021-05-16,2021-06-21,36.0,New York,Approved,Spring,2021,36.0,36.0
+A00101,France,Business,2023-10-12,2023-10-30,18.0,London,Approved,Autumn,2023,18.0,18.0
+A00427,Kenya,Business,2021-07-31,2021-08-30,30.0,Abu Dhabi,Approved,Summer,2021,30.0,30.0
+A00179,Canada,Student,2024-05-30,2024-08-19,81.0,Sydney,Approved,Spring,2024,81.0,81.0
+A00445,South Africa,Permanent Residency,2022-04-18,2022-11-12,208.0,Sydney,Rejected,Spring,2022,208.0,208.0
+A00417,Nigeria,Employment,2024-08-25,2024-11-27,94.0,Delhi,Approved,Summer,2024,94.0,94.0
+A00871,Sri Lanka,Permanent Residency,2024-04-18,2024-12-08,234.0,Singapore,Approved,Spring,2024,234.0,234.0
+A00883,Turkey,Visit,2024-11-11,2024-11-29,18.0,London,Approved,Autumn,2024,18.0,18.0
+A00681,United Kingdom,Permanent Residency,2023-11-06,2024-02-21,107.0,New York,Approved,Autumn,2023,107.0,107.0
+A00178,South Africa,Skilled Migration,2021-10-29,2022-01-24,87.0,Delhi,Approved,Autumn,2021,87.0,87.0
+A00396,Turkey,Tourist,2023-05-20,2023-06-05,16.0,Delhi,Approved,Spring,2023,16.0,16.0
+A00912,Turkey,Work,2024-09-08,2024-11-04,57.0,Delhi,Approved,Autumn,2024,57.0,57.0
+A00794,Nepal,Business,2022-03-09,2022-04-17,39.0,Ottawa,Approved,Spring,2022,39.0,39.0
+A00961,France,Permanent Residency,2022-09-04,2023-07-12,311.0,Sydney,Approved,Autumn,2022,311.0,271.7400000000001
+A00685,Germany,Permanent Residency,2021-06-24,2021-10-22,120.0,New York,Approved,Summer,2021,120.0,120.0
+A00384,India,Student,2022-09-23,2022-11-11,49.0,Berlin,Approved,Autumn,2022,49.0,49.0
+A00957,Nigeria,Skilled Migration,2021-08-21,2021-12-16,117.0,Delhi,Approved,Summer,2021,117.0,117.0
+A00752,Philippines,Student,2021-02-13,2021-05-02,78.0,Ottawa,Approved,Winter,2021,78.0,78.0
+A00258,United States,Skilled Migration,2024-08-27,2025-01-09,135.0,Ottawa,Approved,Summer,2024,135.0,135.0
+A00539,Saudi Arabia,Visit,2023-02-24,2023-03-27,31.0,Delhi,Approved,Winter,2023,31.0,31.0
+A00336,United States,Skilled Migration,2022-08-07,2022-12-10,125.0,Delhi,Approved,Summer,2022,125.0,125.0
+A00016,UAE,Business,2024-07-10,2024-08-13,34.0,Singapore,Approved,Summer,2024,34.0,34.0
+A00325,Nepal,Student,2024-03-21,2024-05-22,62.0,Delhi,Approved,Spring,2024,62.0,62.0
+A00759,Brazil,Work,2021-06-02,2021-08-19,78.0,Abu Dhabi,Approved,Summer,2021,78.0,78.0
+A00180,Bangladesh,Tourist,2022-04-02,2022-04-12,10.0,New York,Approved,Spring,2022,10.0,10.0
+A00984,United Kingdom,Permanent Residency,2021-03-28,2021-10-25,211.0,Ottawa,Approved,Spring,2021,211.0,211.0
+A00023,Bangladesh,Visit,2024-05-19,2024-06-10,22.0,Singapore,Approved,Spring,2024,22.0,22.0
+A00357,Bangladesh,Skilled Migration,2022-06-23,2022-11-08,138.0,Ottawa,Approved,Summer,2022,138.0,138.0
+A00667,United States,Visit,2024-10-09,2024-10-24,15.0,New York,Approved,Autumn,2024,15.0,15.0
+A00862,Pakistan,Skilled Migration,2021-07-03,2021-11-24,144.0,Abu Dhabi,Approved,Summer,2021,144.0,144.0
+A00432,Philippines,Work,2021-11-02,2022-01-08,67.0,Sydney,Approved,Autumn,2021,67.0,67.0
+A00552,Turkey,Work,2022-05-18,2022-08-24,98.0,London,Approved,Spring,2022,98.0,98.0
+A00834,France,Business,2024-01-16,2024-02-05,20.0,London,Approved,Winter,2024,20.0,20.0
+A00204,Bangladesh,Business,2022-05-15,2022-06-14,30.0,Berlin,Approved,Spring,2022,30.0,30.0
+A00631,United Kingdom,Student,2024-12-27,2025-01-28,32.0,Berlin,Approved,Winter,2024,32.0,32.0
+A00094,United States,Student,2021-01-04,2021-03-10,65.0,London,Approved,Winter,2021,65.0,65.0
+A00559,Turkey,Work,2023-02-03,2023-04-03,59.0,Sydney,Approved,Winter,2023,59.0,59.0
+A00069,Germany,Employment,2023-03-05,2023-05-23,79.0,Sydney,Approved,Spring,2023,79.0,79.0
+A00623,Sri Lanka,Student,2024-12-11,2025-02-09,60.0,New York,Approved,Winter,2024,60.0,60.0
+A00285,Philippines,Skilled Migration,2021-04-11,2021-08-14,125.0,Sydney,Approved,Spring,2021,125.0,125.0
+A00845,China,Student,2023-05-08,2023-07-21,74.0,New York,Approved,Spring,2023,74.0,74.0
+A00154,China,Visit,2021-11-09,2021-11-26,17.0,Ottawa,Approved,Autumn,2021,17.0,17.0
+A00076,Sri Lanka,Student,2024-11-07,2025-01-20,74.0,Ottawa,Approved,Autumn,2024,74.0,74.0
+A00731,Brazil,Permanent Residency,2023-11-20,2024-05-05,167.0,Delhi,Approved,Autumn,2023,167.0,167.0
+A00447,Pakistan,Business,2023-07-12,2023-07-28,16.0,New York,Approved,Summer,2023,16.0,16.0
+A00189,Australia,Student,2021-01-09,2021-03-11,61.0,London,Approved,Winter,2021,61.0,61.0
+A00272,Saudi Arabia,Permanent Residency,2024-02-22,2024-10-10,231.0,New York,Rejected,Winter,2024,231.0,231.0
+A00237,UAE,Work,2021-10-02,2021-12-17,76.0,Berlin,Rejected,Autumn,2021,76.0,76.0
+A00488,South Africa,Employment,2021-06-20,2021-10-17,119.0,Berlin,Approved,Summer,2021,119.0,119.0
+A00118,South Africa,Employment,2023-03-19,2023-06-25,98.0,Singapore,Approved,Spring,2023,98.0,98.0
+A00944,Pakistan,Skilled Migration,2023-05-18,2023-09-02,107.0,Berlin,Rejected,Spring,2023,107.0,107.0
+A00513,Canada,Business,2021-11-05,2021-12-12,37.0,Singapore,Approved,Autumn,2021,37.0,37.0
+A00826,Pakistan,Permanent Residency,2022-05-26,2022-12-22,210.0,London,Approved,Spring,2022,210.0,210.0
+A00592,Saudi Arabia,Tourist,2024-10-28,2024-11-19,22.0,Singapore,Approved,Autumn,2024,22.0,22.0
+A00127,Nepal,Visit,2023-11-08,2023-11-30,22.0,Abu Dhabi,Approved,Autumn,2023,22.0,22.0
+A00117,Bangladesh,Student,2022-02-24,2022-05-10,75.0,Berlin,Approved,Winter,2022,75.0,75.0
+A00474,Australia,Employment,2021-06-19,2021-08-29,71.0,Berlin,Approved,Summer,2021,71.0,71.0
+A00694,Nigeria,Visit,2024-08-09,2024-08-25,16.0,New York,Approved,Summer,2024,16.0,16.0
+A00864,Pakistan,Permanent Residency,2022-03-23,2022-10-07,198.0,Sydney,Approved,Spring,2022,198.0,198.0
+A00913,Germany,Employment,2021-05-08,2021-08-01,85.0,Berlin,Approved,Spring,2021,85.0,85.0
+A00370,United Kingdom,Work,2022-10-02,2023-01-09,99.0,Abu Dhabi,Rejected,Autumn,2022,99.0,99.0
+A00269,Bangladesh,Permanent Residency,2024-11-17,2025-05-06,170.0,Abu Dhabi,Approved,Autumn,2024,170.0,170.0
+A00047,Canada,Tourist,2021-07-15,2021-08-01,17.0,Singapore,Approved,Summer,2021,17.0,17.0
+A00350,United Kingdom,Business,2022-05-03,2022-06-10,38.0,Singapore,Rejected,Spring,2022,38.0,38.0
+A00196,Turkey,Employment,2022-02-03,2022-05-20,106.0,Singapore,Approved,Winter,2022,106.0,106.0
+A01000,Sri Lanka,Tourist,2023-11-09,2023-11-23,14.0,Singapore,Approved,Autumn,2023,14.0,14.0
+A00835,Australia,Employment,2022-12-21,2023-02-24,65.0,Berlin,Approved,Winter,2022,65.0,65.0
+A00737,United Kingdom,Business,2023-12-18,2024-01-13,26.0,London,Approved,Winter,2023,26.0,26.0
+A00264,Canada,Tourist,2021-07-14,2021-08-13,30.0,Ottawa,Approved,Summer,2021,30.0,30.0
+A00444,UAE,Tourist,2021-07-04,2021-07-18,14.0,New York,Approved,Summer,2021,14.0,14.0
+A00676,UAE,Skilled Migration,2024-03-03,2024-07-04,123.0,Sydney,Approved,Spring,2024,123.0,123.0
+A00305,France,Permanent Residency,2021-12-30,2022-09-12,256.0,Ottawa,Approved,Winter,2021,256.0,256.0
+A00342,United States,Business,2023-03-30,2023-10-30,214.0,New York,Approved,Spring,2023,214.0,214.0
+A00967,India,Permanent Residency,2022-08-20,2023-01-22,155.0,London,Approved,Summer,2022,155.0,155.0
+A00150,China,Work,2024-07-20,2024-11-02,105.0,Abu Dhabi,Approved,Summer,2024,105.0,105.0
+A00125,France,Permanent Residency,2023-03-03,2023-09-22,203.0,Delhi,Approved,Spring,2023,203.0,203.0
+A00051,India,Employment,2022-12-09,2023-01-24,46.0,Abu Dhabi,Approved,Winter,2022,46.0,46.0
+A00354,Bangladesh,Permanent Residency,2022-10-30,2023-05-16,198.0,Berlin,Rejected,Autumn,2022,198.0,198.0
+A00928,Philippines,Student,2024-08-04,2024-11-07,95.0,Ottawa,Approved,Summer,2024,95.0,95.0
+A00143,Bangladesh,Skilled Migration,2022-05-25,2022-10-10,138.0,Singapore,Rejected,Spring,2022,138.0,138.0
+A00471,Australia,Business,2022-10-19,2022-11-17,29.0,Ottawa,Approved,Autumn,2022,29.0,29.0
+A00400,Brazil,Skilled Migration,2024-09-02,2024-11-13,72.0,Singapore,Approved,Autumn,2024,72.0,72.0
+A00626,Kenya,Skilled Migration,2021-04-30,2021-09-01,124.0,New York,Approved,Spring,2021,124.0,124.0
+A00321,China,Permanent Residency,2022-11-01,2023-05-11,191.0,Abu Dhabi,Approved,Autumn,2022,191.0,191.0
+A00020,Australia,Tourist,2021-06-11,2021-07-01,20.0,Delhi,Approved,Summer,2021,20.0,20.0
+A00810,United States,Visit,2022-12-31,2023-01-17,17.0,Abu Dhabi,Approved,Winter,2022,17.0,17.0
+A00791,Brazil,Skilled Migration,2023-03-20,2023-08-12,145.0,Berlin,Approved,Spring,2023,145.0,145.0
+A00809,Canada,Permanent Residency,2022-09-24,2023-04-19,207.0,Sydney,Approved,Autumn,2022,207.0,207.0
+A00408,Philippines,Tourist,2022-10-04,2022-10-13,9.0,New York,Approved,Autumn,2022,9.0,9.0
+A00621,Canada,Permanent Residency,2022-10-26,2023-04-01,157.0,Abu Dhabi,Approved,Autumn,2022,157.0,157.0
+A00039,Australia,Student,2022-12-22,2023-02-12,52.0,New York,Approved,Winter,2022,52.0,52.0
+A00176,Philippines,Employment,2023-05-07,2023-07-19,73.0,Ottawa,Approved,Spring,2023,73.0,73.0
+A00246,South Africa,Skilled Migration,2023-03-11,2023-07-13,124.0,New York,Rejected,Spring,2023,124.0,124.0
+A00829,Australia,Employment,2023-04-20,2023-07-04,75.0,New York,Approved,Spring,2023,75.0,75.0
+A00668,Australia,Work,2021-11-29,2022-01-25,57.0,Delhi,Approved,Autumn,2021,57.0,57.0
+A00755,Australia,Business,2023-08-27,2023-09-23,27.0,New York,Rejected,Summer,2023,27.0,27.0
+A00859,China,Employment,2023-05-18,2023-08-20,94.0,New York,Rejected,Spring,2023,94.0,94.0
+A00155,UAE,Tourist,2022-08-18,2022-09-04,17.0,Berlin,Approved,Summer,2022,17.0,17.0
+A00288,Philippines,Skilled Migration,2024-04-30,2024-08-30,122.0,Delhi,Approved,Spring,2024,122.0,122.0
+A00603,UAE,Business,2021-01-10,2021-02-15,36.0,Abu Dhabi,Approved,Winter,2021,36.0,36.0
+A00570,China,Permanent Residency,2021-09-11,2022-02-05,147.0,Abu Dhabi,Approved,Autumn,2021,147.0,147.0
+A00744,China,Business,2023-06-16,2023-07-11,25.0,Berlin,Approved,Summer,2023,25.0,25.0
+A00018,Brazil,Work,2024-06-04,2024-07-17,43.0,London,Approved,Summer,2024,43.0,43.0
+A00128,UAE,Student,2022-03-25,2022-05-26,62.0,Singapore,Approved,Spring,2022,62.0,62.0
+A00256,United Kingdom,Student,2021-01-01,2021-03-22,80.0,Ottawa,Approved,Winter,2021,80.0,80.0
+A00658,Germany,Skilled Migration,2022-06-26,2022-11-17,144.0,New York,Approved,Summer,2022,144.0,144.0
+A00965,Saudi Arabia,Visit,2023-09-05,2023-09-29,24.0,Abu Dhabi,Rejected,Autumn,2023,24.0,24.0
+A00191,United Kingdom,Business,2022-07-22,2022-08-31,40.0,Berlin,Approved,Summer,2022,40.0,40.0
+A00116,Sri Lanka,Visit,2023-11-28,2023-12-23,25.0,Singapore,Approved,Autumn,2023,25.0,25.0
+A00617,Saudi Arabia,Visit,2021-02-12,2021-03-15,31.0,Abu Dhabi,Approved,Winter,2021,31.0,31.0
+A00607,Germany,Employment,2023-06-13,2023-07-26,43.0,New York,Rejected,Summer,2023,43.0,43.0
+A00181,UAE,Student,2024-02-05,2024-04-19,74.0,London,Approved,Winter,2024,74.0,74.0
+A00302,Kenya,Permanent Residency,2023-12-25,2024-07-04,192.0,Abu Dhabi,Rejected,Winter,2023,192.0,192.0
+A00760,Kenya,Business,2021-09-19,2021-10-24,35.0,Delhi,Approved,Autumn,2021,35.0,35.0
+A00713,Sri Lanka,Permanent Residency,2024-03-02,2024-09-13,195.0,New York,Rejected,Spring,2024,195.0,195.0
+A00724,Philippines,Work,2021-05-03,2021-07-23,81.0,Delhi,Approved,Spring,2021,81.0,81.0
+A00686,Pakistan,Student,2023-10-29,2023-12-15,47.0,London,Approved,Autumn,2023,47.0,47.0
+A00980,Brazil,Skilled Migration,2022-08-01,2022-11-10,101.0,Delhi,Approved,Summer,2022,101.0,101.0
+A00518,Kenya,Business,2022-07-18,2022-08-20,33.0,Abu Dhabi,Approved,Summer,2022,33.0,33.0
+A00985,Saudi Arabia,Student,2021-01-19,2021-03-05,45.0,London,Approved,Winter,2021,45.0,45.0
+A00046,Nepal,Employment,2024-10-29,2025-01-24,87.0,Singapore,Approved,Autumn,2024,87.0,87.0
+A00910,Germany,Skilled Migration,2022-10-21,2023-02-14,116.0,Delhi,Approved,Autumn,2022,116.0,116.0
+A00158,Turkey,Visit,2021-02-22,2021-03-28,34.0,Sydney,Approved,Winter,2021,34.0,34.0
+A00852,China,Permanent Residency,2024-09-11,2025-02-11,153.0,Abu Dhabi,Rejected,Autumn,2024,153.0,153.0
+A00172,Bangladesh,Work,2024-07-03,2024-08-24,52.0,Singapore,Approved,Summer,2024,52.0,52.0
+A00017,China,Permanent Residency,2023-10-21,2024-05-03,195.0,London,Approved,Autumn,2023,195.0,195.0
+A00512,Nepal,Visit,2024-12-05,2025-01-02,28.0,Sydney,Approved,Winter,2024,28.0,28.0
+A00049,Nigeria,Skilled Migration,2022-08-29,2023-01-21,145.0,New York,Approved,Summer,2022,145.0,145.0
+A00972,China,Permanent Residency,2023-10-09,2024-05-28,232.0,Ottawa,Rejected,Autumn,2023,232.0,232.0
+A00941,Kenya,Employment,2023-04-05,2023-07-02,88.0,Berlin,Approved,Spring,2023,88.0,88.0
+A00516,Kenya,Visit,2021-12-14,2021-12-31,17.0,London,Rejected,Winter,2021,17.0,17.0
+A00953,Nepal,Visit,2024-11-16,2024-12-09,23.0,London,Approved,Autumn,2024,23.0,23.0
+A00481,United Kingdom,Skilled Migration,2024-06-24,2024-11-05,134.0,Singapore,Approved,Summer,2024,134.0,134.0
+A00284,Brazil,Employment,2021-03-07,2021-05-29,83.0,Sydney,Approved,Spring,2021,83.0,83.0
+A00719,Philippines,Visit,2024-04-28,2024-05-19,21.0,Singapore,Approved,Spring,2024,21.0,21.0
+A00878,Turkey,Student,2024-06-07,2024-07-30,53.0,London,Approved,Summer,2024,53.0,53.0
+A00226,Turkey,Student,2024-11-09,2025-01-29,81.0,Sydney,Approved,Autumn,2024,81.0,81.0
+A00027,United Kingdom,Tourist,2024-09-11,2024-10-06,25.0,Ottawa,Approved,Autumn,2024,25.0,25.0
+A00955,United Kingdom,Permanent Residency,2021-11-13,2022-03-18,125.0,London,Approved,Autumn,2021,125.0,125.0
+A00438,Nigeria,Employment,2022-12-18,2023-02-27,71.0,London,Approved,Winter,2022,71.0,71.0
+A00952,United Kingdom,Work,2022-03-25,2022-05-03,39.0,New York,Approved,Spring,2022,39.0,39.0
+A00365,Brazil,Student,2022-02-07,2022-04-04,56.0,Abu Dhabi,Approved,Winter,2022,56.0,56.0
+A00230,Nepal,Work,2021-01-29,2021-04-22,83.0,Sydney,Approved,Winter,2021,83.0,83.0
+A00038,Pakistan,Tourist,2024-05-20,2024-06-04,15.0,Singapore,Approved,Spring,2024,15.0,15.0
+A00966,France,Visit,2022-10-05,2022-10-28,23.0,Sydney,Approved,Autumn,2022,23.0,23.0
+A00375,Saudi Arabia,Tourist,2022-08-24,2022-09-18,25.0,Singapore,Approved,Summer,2022,25.0,25.0
+A00470,Philippines,Employment,2022-10-01,2022-12-26,86.0,Ottawa,Approved,Autumn,2022,86.0,86.0
+A00968,China,Visit,2023-10-04,2023-11-03,30.0,Singapore,Approved,Autumn,2023,30.0,30.0
+A00851,United Kingdom,Permanent Residency,2022-10-05,2023-06-27,265.0,Delhi,Approved,Autumn,2022,265.0,265.0
+A00705,Pakistan,Business,2024-05-03,2024-06-09,37.0,Abu Dhabi,Approved,Spring,2024,37.0,37.0
+A00842,Saudi Arabia,Business,2023-06-11,2023-07-17,36.0,Singapore,Approved,Summer,2023,36.0,36.0
+A00195,Sri Lanka,Permanent Residency,2022-03-03,2022-08-10,160.0,Abu Dhabi,Approved,Spring,2022,160.0,160.0
+A00855,Bangladesh,Business,2023-05-25,2023-07-02,38.0,Sydney,Approved,Spring,2023,38.0,38.0
+A00865,Pakistan,Work,2024-05-30,2024-07-24,55.0,New York,Approved,Spring,2024,55.0,55.0
+A00504,Pakistan,Tourist,2023-01-15,2023-01-28,13.0,London,Approved,Winter,2023,13.0,13.0
+A00970,UAE,Work,2021-03-24,2021-05-24,61.0,London,Approved,Spring,2021,61.0,61.0
+A00831,Pakistan,Visit,2023-12-10,2023-12-26,16.0,Abu Dhabi,Approved,Winter,2023,16.0,16.0
+A00580,Australia,Skilled Migration,2024-09-08,2025-01-24,138.0,Delhi,Rejected,Autumn,2024,138.0,138.0
+A00969,UAE,Permanent Residency,2024-08-09,2025-03-21,224.0,Ottawa,Approved,Summer,2024,224.0,224.0
+A00163,Saudi Arabia,Student,2022-06-24,2022-08-07,44.0,London,Approved,Summer,2022,44.0,44.0
+A00909,India,Business,2022-02-15,2022-03-10,23.0,New York,Approved,Winter,2022,23.0,23.0
+A00153,South Africa,Visit,2023-08-21,2023-09-17,27.0,London,Rejected,Summer,2023,27.0,27.0
+A00802,United States,Skilled Migration,2021-10-01,2022-03-01,151.0,Singapore,Approved,Autumn,2021,151.0,151.0
+A00994,Brazil,Tourist,2022-03-02,2022-03-22,20.0,Delhi,Approved,Spring,2022,20.0,20.0
+A00756,Saudi Arabia,Employment,2022-04-11,2022-07-08,88.0,New York,Rejected,Spring,2022,88.0,88.0
+A00227,India,Student,2023-11-15,2024-01-20,66.0,New York,Approved,Autumn,2023,66.0,66.0
+A00689,South Africa,Student,2021-07-17,2021-09-17,62.0,Abu Dhabi,Approved,Summer,2021,62.0,62.0
+A00104,United Kingdom,Skilled Migration,2023-02-16,2023-06-01,105.0,Berlin,Approved,Winter,2023,105.0,105.0
+A00422,UAE,Skilled Migration,2022-07-18,2022-10-09,83.0,Sydney,Approved,Summer,2022,83.0,83.0
+A00420,Saudi Arabia,Business,2022-03-15,2022-04-22,38.0,Abu Dhabi,Approved,Spring,2022,38.0,38.0
+A00751,Nigeria,Permanent Residency,2024-03-18,2024-09-06,172.0,London,Approved,Spring,2024,172.0,172.0
+A00587,Turkey,Work,2021-03-15,2021-04-30,46.0,New York,Approved,Spring,2021,46.0,46.0
+A00781,United States,Tourist,2022-06-28,2022-07-22,24.0,Ottawa,Rejected,Summer,2022,24.0,24.0
+A00673,South Africa,Employment,2021-12-02,2022-03-29,117.0,Singapore,Approved,Winter,2021,117.0,117.0
+A00054,United Kingdom,Student,2023-01-26,2023-03-13,46.0,Berlin,Approved,Winter,2023,46.0,46.0
+A00152,India,Student,2022-03-09,2022-04-26,48.0,Berlin,Approved,Spring,2022,48.0,48.0
+A00404,Nigeria,Student,2024-05-11,2024-11-18,191.0,Abu Dhabi,Approved,Spring,2024,191.0,191.0
+A00946,United Kingdom,Skilled Migration,2022-06-14,2022-09-08,86.0,Delhi,Approved,Summer,2022,86.0,86.0
+A00208,China,Tourist,2022-02-27,2022-03-12,13.0,London,Approved,Winter,2022,13.0,13.0
+A00659,South Africa,Student,2023-01-31,2023-04-10,69.0,London,Approved,Winter,2023,69.0,69.0
+A00844,Germany,Work,2021-03-13,2021-06-29,108.0,London,Approved,Spring,2021,108.0,108.0
+A00763,Nepal,Employment,2022-12-28,2023-03-18,80.0,New York,Approved,Winter,2022,80.0,80.0
+A00009,Kenya,Permanent Residency,2024-08-26,2025-02-19,177.0,Abu Dhabi,Rejected,Summer,2024,177.0,177.0
+A00808,Pakistan,Work,2023-06-28,2023-10-03,97.0,Singapore,Approved,Summer,2023,97.0,97.0
+A00037,India,Skilled Migration,2023-06-19,2023-10-26,129.0,New York,Approved,Summer,2023,129.0,129.0
+A00453,United Kingdom,Employment,2021-03-01,2021-06-27,118.0,Singapore,Approved,Spring,2021,118.0,118.0
+A00652,UAE,Permanent Residency,2023-04-16,2023-10-24,191.0,Delhi,Approved,Spring,2023,191.0,191.0
+A00254,Nepal,Employment,2022-08-22,2023-01-04,135.0,Delhi,Approved,Summer,2022,135.0,135.0
+A00304,Nepal,Tourist,2021-03-19,2021-04-05,17.0,London,Approved,Spring,2021,17.0,17.0
+A00747,France,Business,2024-05-03,2024-06-09,37.0,London,Rejected,Spring,2024,37.0,37.0
+A00572,Turkey,Visit,2022-08-21,2022-09-26,36.0,Sydney,Approved,Summer,2022,36.0,36.0
+A00624,China,Employment,2021-06-25,2021-09-02,69.0,Sydney,Approved,Summer,2021,69.0,69.0
+A00733,Pakistan,Visit,2021-01-31,2021-02-28,28.0,Ottawa,Rejected,Winter,2021,28.0,28.0
+A00892,Sri Lanka,Student,2022-05-22,2022-07-21,60.0,Berlin,Approved,Spring,2022,60.0,60.0
+A00263,United States,Student,2021-05-31,2021-07-25,55.0,Abu Dhabi,Approved,Spring,2021,55.0,55.0
+A00611,Bangladesh,Employment,2021-07-16,2021-09-09,55.0,Berlin,Approved,Summer,2021,55.0,55.0
+A00298,Pakistan,Employment,2024-07-11,2024-11-08,120.0,London,Approved,Summer,2024,120.0,120.0
+A00415,Australia,Business,2021-04-19,2021-05-12,23.0,Delhi,Approved,Spring,2021,23.0,23.0
+A00151,Nigeria,Student,2024-01-05,2024-02-12,38.0,Abu Dhabi,Approved,Winter,2024,38.0,38.0
+A00789,Saudi Arabia,Skilled Migration,2023-03-15,2023-07-04,111.0,London,Approved,Spring,2023,111.0,111.0
+A00641,Philippines,Tourist,2021-07-23,2021-08-03,11.0,Berlin,Approved,Summer,2021,11.0,11.0
+A00890,Saudi Arabia,Visit,2024-05-15,2024-05-31,16.0,Abu Dhabi,Approved,Spring,2024,16.0,16.0
+A00551,United States,Student,2022-01-13,2022-03-25,71.0,Abu Dhabi,Approved,Winter,2022,71.0,71.0
+A00887,China,Tourist,2022-08-28,2022-09-14,17.0,Berlin,Approved,Summer,2022,17.0,17.0
+A00489,Kenya,Visit,2023-12-01,2023-12-27,26.0,Singapore,Approved,Winter,2023,26.0,26.0
+A00148,China,Work,2023-09-24,2023-12-04,71.0,Berlin,Approved,Autumn,2023,71.0,71.0
+A00147,India,Tourist,2022-07-28,2022-08-22,25.0,Singapore,Approved,Summer,2022,25.0,25.0
+A00721,Philippines,Permanent Residency,2022-04-05,2022-09-12,160.0,New York,Rejected,Spring,2022,160.0,160.0
+A00932,Nigeria,Work,2021-01-31,2021-04-20,79.0,Singapore,Approved,Winter,2021,79.0,79.0
+A00740,Australia,Employment,2021-05-14,2021-07-27,74.0,Ottawa,Approved,Spring,2021,74.0,74.0
+A00660,Sri Lanka,Tourist,2021-02-12,2021-03-14,30.0,Sydney,Approved,Winter,2021,30.0,30.0
+A00349,France,Business,2022-01-30,2022-02-20,21.0,London,Approved,Winter,2022,21.0,21.0
+A00464,Kenya,Employment,2023-12-06,2024-03-29,114.0,Ottawa,Rejected,Winter,2023,114.0,114.0
+A00326,Turkey,Skilled Migration,2022-08-25,2023-02-08,167.0,Berlin,Approved,Summer,2022,167.0,167.0
+A00124,United States,Business,2024-07-16,2024-08-10,25.0,Delhi,Approved,Summer,2024,25.0,25.0
+A00609,Germany,Student,2024-09-08,2024-10-20,42.0,London,Approved,Autumn,2024,42.0,42.0
+A00144,India,Business,2022-03-20,2022-04-13,24.0,Berlin,Approved,Spring,2022,24.0,24.0
+A00959,Brazil,Student,2022-05-14,2022-07-05,52.0,Abu Dhabi,Approved,Spring,2022,52.0,52.0
+A00198,Canada,Student,2022-12-14,2023-02-16,64.0,Delhi,Approved,Winter,2022,64.0,64.0
+A00610,UAE,Student,2024-08-16,2025-03-23,219.0,Berlin,Rejected,Summer,2024,219.0,219.0
+A00280,Brazil,Student,2021-08-26,2021-10-15,50.0,Sydney,Approved,Summer,2021,50.0,50.0
+A00294,France,Work,2024-03-04,2024-05-23,80.0,Berlin,Approved,Spring,2024,80.0,80.0
+A00401,Brazil,Visit,2024-07-01,2024-07-23,22.0,London,Approved,Summer,2024,22.0,22.0
+A00123,Turkey,Visit,2022-07-23,2022-08-21,29.0,Singapore,Approved,Summer,2022,29.0,29.0
+A00184,India,Skilled Migration,2023-05-03,2023-09-01,121.0,Singapore,Approved,Spring,2023,121.0,121.0
+A00203,Nepal,Tourist,2023-02-13,2023-02-23,10.0,London,Approved,Winter,2023,10.0,10.0
+A00439,Bangladesh,Permanent Residency,2022-09-23,2023-04-04,193.0,London,Approved,Autumn,2022,193.0,193.0
+A00247,Philippines,Work,2021-06-16,2021-08-27,72.0,Ottawa,Approved,Summer,2021,72.0,72.0
+A00416,South Africa,Employment,2021-03-09,2021-06-16,99.0,Singapore,Approved,Spring,2021,99.0,99.0
+A00933,Bangladesh,Employment,2023-12-23,2024-03-09,77.0,New York,Approved,Winter,2023,77.0,77.0
+A00766,India,Work,2023-10-18,2023-12-27,70.0,Singapore,Approved,Autumn,2023,70.0,70.0
+A00907,France,Visit,2021-08-07,2021-08-20,13.0,New York,Approved,Summer,2021,13.0,13.0
+A00836,Bangladesh,Visit,2023-06-09,2023-07-05,26.0,Singapore,Approved,Summer,2023,26.0,26.0
+A00888,Australia,Tourist,2022-03-31,2022-04-23,23.0,Delhi,Approved,Spring,2022,23.0,23.0
+A00130,Nepal,Employment,2023-02-17,2023-05-18,90.0,Delhi,Rejected,Winter,2023,90.0,90.0
+A00638,Germany,Visit,2023-08-07,2023-09-12,36.0,Ottawa,Approved,Summer,2023,36.0,36.0
+A00403,Canada,Tourist,2023-09-06,2023-09-23,17.0,London,Approved,Autumn,2023,17.0,17.0
+A00785,China,Work,2022-06-29,2022-09-10,73.0,Berlin,Rejected,Summer,2022,73.0,73.0
+A00771,United Kingdom,Business,2023-11-12,2023-12-07,25.0,Berlin,Rejected,Autumn,2023,25.0,25.0
+A00736,UAE,Visit,2022-10-30,2022-11-17,18.0,Singapore,Approved,Autumn,2022,18.0,18.0
+A00914,Pakistan,Tourist,2022-04-14,2022-04-25,11.0,Ottawa,Approved,Spring,2022,11.0,11.0
+A00220,Nepal,Permanent Residency,2022-05-26,2022-08-17,83.0,London,Rejected,Spring,2022,83.0,83.0
+A00642,Brazil,Permanent Residency,2022-10-27,2023-05-25,210.0,Singapore,Approved,Autumn,2022,210.0,210.0
+A00916,Brazil,Permanent Residency,2022-04-03,2022-09-30,180.0,London,Approved,Spring,2022,180.0,180.0
+A00753,Kenya,Permanent Residency,2023-11-18,2024-03-25,128.0,London,Approved,Autumn,2023,128.0,128.0
+A00807,Canada,Student,2021-07-20,2021-09-14,56.0,Singapore,Approved,Summer,2021,56.0,56.0
+A00920,United States,Permanent Residency,2022-03-24,2022-10-30,220.0,Ottawa,Approved,Spring,2022,220.0,220.0
+A00625,Kenya,Skilled Migration,2022-08-31,2022-12-16,107.0,Abu Dhabi,Approved,Summer,2022,107.0,107.0
+A00875,Australia,Work,2023-11-04,2024-01-22,79.0,Berlin,Approved,Autumn,2023,79.0,79.0
+A00761,United Kingdom,Tourist,2024-10-14,2024-11-02,19.0,Delhi,Approved,Autumn,2024,19.0,19.0
+A00387,United States,Work,2024-11-19,2025-02-03,76.0,Berlin,Approved,Autumn,2024,76.0,76.0
+A00973,Turkey,Work,2022-11-26,2023-01-27,62.0,Delhi,Approved,Autumn,2022,62.0,62.0
+A00510,Germany,Permanent Residency,2024-10-29,2025-03-17,139.0,Berlin,Approved,Autumn,2024,139.0,139.0
+A00268,Canada,Tourist,2022-03-14,2022-04-13,30.0,Ottawa,Approved,Spring,2022,30.0,30.0
+A00820,United Kingdom,Skilled Migration,2022-01-02,2022-04-26,114.0,Ottawa,Approved,Winter,2022,114.0,114.0
+A00442,France,Work,2022-01-20,2022-05-23,123.0,Ottawa,Approved,Winter,2022,123.0,123.0
+A00497,Nepal,Business,2022-11-29,2023-01-21,53.0,Ottawa,Approved,Autumn,2022,53.0,53.0
+A00113,France,Permanent Residency,2021-02-08,2021-09-12,216.0,Berlin,Approved,Winter,2021,216.0,216.0
+A00692,United States,Work,2022-01-30,2022-05-09,99.0,Delhi,Rejected,Winter,2022,99.0,99.0
+A00233,France,Skilled Migration,2022-04-02,2022-09-16,167.0,Delhi,Approved,Spring,2022,167.0,167.0
+A00870,Sri Lanka,Business,2022-05-27,2022-07-08,42.0,Ottawa,Approved,Spring,2022,42.0,42.0
+A00608,South Africa,Employment,2021-01-07,2021-03-06,58.0,New York,Approved,Winter,2021,58.0,58.0
+A00672,Nigeria,Skilled Migration,2023-05-16,2023-08-11,87.0,Abu Dhabi,Approved,Spring,2023,87.0,87.0
+A00374,Sri Lanka,Visit,2022-09-18,2022-10-06,18.0,New York,Approved,Autumn,2022,18.0,18.0
+A00982,Nepal,Permanent Residency,2023-04-03,2023-11-25,236.0,Singapore,Approved,Spring,2023,236.0,236.0
+A00843,Pakistan,Student,2022-04-30,2022-12-22,236.0,London,Approved,Spring,2022,236.0,236.0
+A00234,France,Work,2024-02-02,2024-04-03,61.0,New York,Approved,Winter,2024,61.0,61.0
+A00786,South Africa,Visit,2024-12-22,2025-01-10,19.0,New York,Approved,Winter,2024,19.0,19.0
+A00677,Pakistan,Permanent Residency,2022-07-21,2023-02-03,197.0,London,Approved,Summer,2022,197.0,197.0
+A00318,India,Skilled Migration,2022-04-19,2023-03-09,324.0,Delhi,Approved,Spring,2022,324.0,271.7400000000001
+A00649,Pakistan,Employment,2024-10-04,2024-11-08,35.0,Berlin,Rejected,Autumn,2024,35.0,35.0
+A00411,Germany,Work,2024-02-04,2024-03-30,55.0,Delhi,Approved,Winter,2024,55.0,55.0
+A00899,Pakistan,Work,2022-07-16,2022-10-14,90.0,Singapore,Approved,Summer,2022,90.0,90.0
+A00710,Nepal,Work,2022-06-01,2022-10-01,122.0,Ottawa,Approved,Summer,2022,122.0,122.0
+A00359,Turkey,Employment,2024-09-29,2025-06-11,255.0,London,Approved,Autumn,2024,255.0,255.0
+A00259,India,Permanent Residency,2023-02-11,2023-07-07,146.0,Sydney,Approved,Winter,2023,146.0,146.0
+A00745,United Kingdom,Employment,2024-11-07,2024-12-24,47.0,Berlin,Approved,Autumn,2024,47.0,47.0
+A00628,Saudi Arabia,Skilled Migration,2024-08-06,2024-11-03,89.0,Berlin,Approved,Summer,2024,89.0,89.0
+A00633,Canada,Employment,2021-01-21,2021-05-11,110.0,Sydney,Approved,Winter,2021,110.0,110.0
+A00283,Kenya,Student,2024-11-25,2025-01-16,52.0,Delhi,Approved,Autumn,2024,52.0,52.0
+A00377,Australia,Visit,2023-04-27,2023-05-21,24.0,Delhi,Approved,Spring,2023,24.0,24.0
+A00385,Brazil,Employment,2023-06-24,2023-09-20,88.0,Berlin,Approved,Summer,2023,88.0,88.0
+A00225,Nepal,Employment,2024-07-25,2024-10-06,73.0,Abu Dhabi,Approved,Summer,2024,73.0,73.0
+A00954,India,Skilled Migration,2023-11-08,2024-04-19,163.0,Sydney,Approved,Autumn,2023,163.0,163.0
+A00815,China,Tourist,2021-01-27,2021-02-21,25.0,Delhi,Approved,Winter,2021,25.0,25.0
+A00473,China,Business,2022-05-17,2022-07-01,45.0,Singapore,Approved,Spring,2022,45.0,45.0
+A00348,France,Work,2022-02-16,2022-05-16,89.0,Ottawa,Approved,Winter,2022,89.0,89.0
+A00506,China,Visit,2023-02-22,2023-03-09,15.0,Sydney,Approved,Winter,2023,15.0,15.0
+A00640,United States,Business,2023-05-04,2023-05-21,17.0,New York,Approved,Spring,2023,17.0,17.0
+A00988,Kenya,Student,2021-02-27,2021-05-09,71.0,Sydney,Approved,Winter,2021,71.0,71.0
+A00929,Saudi Arabia,Employment,2024-02-26,2024-06-17,112.0,Singapore,Approved,Winter,2024,112.0,112.0
+A00906,Australia,Tourist,2022-05-11,2022-05-21,10.0,New York,Approved,Spring,2022,10.0,10.0
+A00620,Brazil,Skilled Migration,2022-07-16,2022-09-26,72.0,London,Approved,Summer,2022,72.0,72.0
+A00856,Saudi Arabia,Student,2023-06-13,2023-08-27,75.0,Abu Dhabi,Approved,Summer,2023,75.0,75.0
+A00804,India,Permanent Residency,2024-09-13,2025-05-05,234.0,Singapore,Approved,Autumn,2024,234.0,234.0
+A00646,Philippines,Employment,2021-05-07,2021-07-25,79.0,New York,Approved,Spring,2021,79.0,79.0
+A00847,France,Tourist,2021-11-18,2021-11-28,10.0,New York,Approved,Autumn,2021,10.0,10.0
+A00557,Turkey,Visit,2022-12-05,2023-01-09,35.0,Ottawa,Approved,Winter,2022,35.0,35.0
+A00958,Philippines,Employment,2022-11-13,2023-02-23,102.0,Sydney,Approved,Autumn,2022,102.0,102.0
+A00578,Saudi Arabia,Business,2021-02-09,2021-04-12,62.0,Sydney,Approved,Winter,2021,62.0,62.0
+A00796,United Kingdom,Tourist,2021-01-03,2021-01-28,25.0,Singapore,Approved,Winter,2021,25.0,25.0
+A00086,India,Permanent Residency,2021-11-08,2022-04-15,158.0,New York,Rejected,Autumn,2021,158.0,158.0
+A00243,China,Visit,2022-06-19,2022-07-08,19.0,Berlin,Approved,Summer,2022,19.0,19.0
+A00160,Nigeria,Business,2022-09-18,2022-10-20,32.0,Berlin,Approved,Autumn,2022,32.0,32.0
+A00525,Brazil,Work,2022-02-24,2022-05-01,66.0,Singapore,Approved,Winter,2022,66.0,66.0
+A00036,Philippines,Tourist,2024-05-16,2024-06-07,22.0,Singapore,Approved,Spring,2024,22.0,22.0
+A00541,South Africa,Business,2023-02-18,2023-03-13,23.0,Berlin,Approved,Winter,2023,23.0,23.0
+A00171,Philippines,Visit,2021-05-28,2021-06-27,30.0,Berlin,Approved,Spring,2021,30.0,30.0
+A00655,Turkey,Permanent Residency,2022-05-17,2022-12-05,202.0,Abu Dhabi,Approved,Spring,2022,202.0,202.0
+A00891,United Kingdom,Skilled Migration,2022-08-16,2022-12-03,109.0,New York,Approved,Summer,2022,109.0,109.0
+A00858,Brazil,Student,2023-06-02,2023-08-24,83.0,Singapore,Approved,Summer,2023,83.0,83.0
+A00848,Brazil,Permanent Residency,2021-03-04,2021-07-22,140.0,Delhi,Approved,Spring,2021,140.0,140.0
+A00945,Nigeria,Student,2023-02-22,2023-04-25,62.0,Singapore,Approved,Winter,2023,62.0,62.0
+A00734,Brazil,Business,2021-10-27,2021-11-25,29.0,London,Approved,Autumn,2021,29.0,29.0
+A00096,Bangladesh,Permanent Residency,2024-06-03,2025-02-09,251.0,Ottawa,Approved,Summer,2024,251.0,251.0
+A00564,Bangladesh,Skilled Migration,2024-12-19,2025-02-23,66.0,Abu Dhabi,Rejected,Winter,2024,66.0,66.0
+A00241,Kenya,Employment,2021-12-12,2022-02-09,59.0,Abu Dhabi,Approved,Winter,2021,59.0,59.0
+A00743,Philippines,Business,2024-08-05,2024-08-29,24.0,New York,Approved,Summer,2024,24.0,24.0
+A00575,Bangladesh,Tourist,2021-12-31,2022-01-21,21.0,Abu Dhabi,Approved,Winter,2021,21.0,21.0
+A00691,Turkey,Work,2022-07-06,2022-10-13,99.0,Delhi,Rejected,Summer,2022,99.0,99.0
+A00461,Turkey,Work,2024-01-03,2024-02-07,35.0,Berlin,Rejected,Winter,2024,35.0,35.0
+A00554,UAE,Work,2023-03-29,2023-06-08,71.0,Ottawa,Rejected,Spring,2023,71.0,71.0
+A00889,South Africa,Employment,2021-02-26,2021-06-20,114.0,Ottawa,Rejected,Winter,2021,114.0,114.0
+A00207,Philippines,Work,2021-09-12,2021-11-22,71.0,New York,Approved,Autumn,2021,71.0,71.0
+A00393,Australia,Student,2021-05-13,2021-07-03,51.0,London,Approved,Spring,2021,51.0,51.0
+A00795,Bangladesh,Work,2022-05-29,2022-09-02,96.0,Sydney,Rejected,Spring,2022,96.0,96.0
+A00398,Bangladesh,Student,2021-08-07,2021-09-20,44.0,Sydney,Rejected,Summer,2021,44.0,44.0
+A00767,Saudi Arabia,Visit,2021-11-06,2021-11-27,21.0,Berlin,Approved,Autumn,2021,21.0,21.0
+A00849,Brazil,Work,2023-10-26,2024-01-15,81.0,Sydney,Approved,Autumn,2023,81.0,81.0
+A00218,Australia,Permanent Residency,2023-08-05,2024-04-08,247.0,Berlin,Approved,Summer,2023,247.0,247.0
+A00769,Canada,Tourist,2024-01-11,2024-01-30,19.0,Delhi,Approved,Winter,2024,19.0,19.0
+A00643,Bangladesh,Permanent Residency,2024-02-11,2024-05-06,85.0,New York,Approved,Winter,2024,85.0,85.0
+A00930,Sri Lanka,Skilled Migration,2024-09-23,2024-12-14,82.0,Berlin,Rejected,Autumn,2024,82.0,82.0
+A00613,UAE,Permanent Residency,2022-10-22,2023-06-24,245.0,London,Approved,Autumn,2022,245.0,245.0
+A00739,China,Student,2021-11-13,2021-12-19,36.0,New York,Approved,Autumn,2021,36.0,36.0
+A00547,United Kingdom,Visit,2024-11-09,2024-12-13,34.0,Ottawa,Approved,Autumn,2024,34.0,34.0
+A00726,Sri Lanka,Permanent Residency,2023-03-23,2023-09-23,184.0,Abu Dhabi,Rejected,Spring,2023,184.0,184.0
+A00684,Brazil,Business,2023-06-29,2023-08-14,46.0,Delhi,Approved,Summer,2023,46.0,46.0
+A00099,Australia,Skilled Migration,2023-09-29,2024-02-12,136.0,Singapore,Rejected,Autumn,2023,136.0,136.0
+A00805,UAE,Visit,2023-06-28,2023-07-22,24.0,London,Approved,Summer,2023,24.0,24.0
+A00728,Pakistan,Tourist,2024-01-11,2024-01-29,18.0,London,Approved,Winter,2024,18.0,18.0
+A00574,France,Skilled Migration,2022-10-26,2023-04-05,161.0,Ottawa,Approved,Autumn,2022,161.0,161.0
+A00407,Brazil,Employment,2024-06-03,2024-07-07,34.0,New York,Rejected,Summer,2024,34.0,34.0
+A00503,China,Tourist,2022-08-01,2022-08-19,18.0,London,Approved,Summer,2022,18.0,18.0
+A00048,China,Tourist,2024-05-09,2024-05-29,20.0,Delhi,Approved,Spring,2024,20.0,20.0
+A00033,Pakistan,Permanent Residency,2024-07-01,2025-04-29,302.0,Sydney,Rejected,Summer,2024,302.0,271.7400000000001
+A00780,Brazil,Skilled Migration,2022-11-16,2023-02-13,89.0,London,Approved,Autumn,2022,89.0,89.0
+A00840,Nepal,Business,2021-09-24,2021-10-29,35.0,Sydney,Approved,Autumn,2021,35.0,35.0
+A00201,Germany,Student,2022-03-04,2022-05-04,61.0,Abu Dhabi,Approved,Spring,2022,61.0,61.0
+A00135,China,Tourist,2022-07-12,2022-07-27,15.0,Abu Dhabi,Approved,Summer,2022,15.0,15.0
+A00028,Bangladesh,Permanent Residency,2024-03-25,2024-07-25,122.0,New York,Approved,Spring,2024,122.0,122.0
+A00881,Australia,Employment,2023-10-11,2024-01-12,93.0,Delhi,Approved,Autumn,2023,93.0,93.0
+A00490,Germany,Permanent Residency,2023-11-23,2024-03-26,124.0,New York,Approved,Autumn,2023,124.0,124.0
+A00773,United Kingdom,Business,2024-12-01,2025-03-25,114.0,New York,Approved,Winter,2024,114.0,114.0
+A00379,China,Employment,2023-12-12,2024-04-25,135.0,Singapore,Approved,Winter,2023,135.0,135.0
+A00289,China,Tourist,2023-09-16,2023-10-24,38.0,Sydney,Approved,Autumn,2023,38.0,38.0
+A00419,United States,Visit,2022-07-16,2022-08-03,18.0,Delhi,Approved,Summer,2022,18.0,18.0
+A00675,Bangladesh,Tourist,2024-03-11,2024-03-21,10.0,London,Approved,Spring,2024,10.0,10.0
+A00392,Turkey,Permanent Residency,2021-09-09,2021-12-21,103.0,Berlin,Approved,Autumn,2021,103.0,103.0
+A00593,South Africa,Work,2024-06-04,2024-08-30,87.0,Berlin,Approved,Summer,2024,87.0,87.0
+A00499,Brazil,Skilled Migration,2022-05-15,2022-10-15,153.0,London,Rejected,Spring,2022,153.0,153.0
+A00063,Kenya,Work,2021-08-22,2021-11-23,93.0,Sydney,Approved,Summer,2021,93.0,93.0
+A00472,United Kingdom,Business,2024-04-30,2024-05-26,26.0,London,Approved,Spring,2024,26.0,26.0
+A00648,India,Work,2024-09-12,2025-01-02,112.0,Singapore,Approved,Autumn,2024,112.0,112.0
+A00129,Turkey,Permanent Residency,2022-08-23,2023-04-23,243.0,Ottawa,Approved,Summer,2022,243.0,243.0
+A00977,France,Business,2021-03-14,2021-04-21,38.0,London,Approved,Spring,2021,38.0,38.0
+A00521,Germany,Business,2021-05-24,2021-07-18,55.0,Ottawa,Approved,Spring,2021,55.0,55.0
+A00065,Sri Lanka,Employment,2021-02-09,2021-06-12,123.0,Abu Dhabi,Approved,Winter,2021,123.0,123.0
+A00813,France,Permanent Residency,2024-03-05,2024-08-28,176.0,London,Rejected,Spring,2024,176.0,176.0
+A00015,UAE,Student,2023-10-20,2023-12-07,48.0,New York,Approved,Autumn,2023,48.0,48.0
+A00157,UAE,Skilled Migration,2021-03-24,2021-07-14,112.0,Abu Dhabi,Approved,Spring,2021,112.0,112.0
+A00041,Pakistan,Skilled Migration,2022-06-26,2022-11-17,144.0,Sydney,Approved,Summer,2022,144.0,144.0
+A00493,Brazil,Visit,2023-01-11,2023-02-09,29.0,Delhi,Approved,Winter,2023,29.0,29.0
+A00380,Nigeria,Permanent Residency,2021-09-25,2022-03-15,171.0,New York,Approved,Autumn,2021,171.0,171.0
+A00188,Germany,Visit,2022-12-08,2022-12-28,20.0,London,Approved,Winter,2022,20.0,20.0
+A00764,Germany,Tourist,2022-01-11,2022-01-22,11.0,Singapore,Approved,Winter,2022,11.0,11.0
+A00217,Philippines,Student,2024-10-09,2024-12-03,55.0,Ottawa,Approved,Autumn,2024,55.0,55.0
+A00792,Nigeria,Work,2024-06-08,2024-07-29,51.0,Singapore,Approved,Summer,2024,51.0,51.0
+A00053,UAE,Work,2024-12-25,2025-04-25,121.0,London,Approved,Winter,2024,121.0,121.0
+A00879,Nigeria,Student,2022-03-22,2022-05-25,64.0,Singapore,Approved,Spring,2022,64.0,64.0
+A00338,Brazil,Work,2024-06-07,2024-08-12,66.0,Delhi,Approved,Summer,2024,66.0,66.0
+A00749,South Africa,Visit,2023-09-14,2023-10-09,25.0,Ottawa,Approved,Autumn,2023,25.0,25.0
+A00720,China,Skilled Migration,2021-09-25,2022-02-27,155.0,Sydney,Approved,Autumn,2021,155.0,155.0
+A00296,Pakistan,Business,2023-07-02,2023-08-17,46.0,Ottawa,Approved,Summer,2023,46.0,46.0
+A00702,China,Skilled Migration,2023-06-25,2024-02-17,237.0,Abu Dhabi,Approved,Summer,2023,237.0,237.0
+A00727,France,Employment,2022-08-05,2022-11-25,112.0,Singapore,Rejected,Summer,2022,112.0,112.0
+A00462,Brazil,Permanent Residency,2023-06-27,2024-01-15,202.0,London,Approved,Summer,2023,202.0,202.0
+A00456,Pakistan,Business,2022-02-27,2022-03-23,24.0,Sydney,Approved,Winter,2022,24.0,24.0
+A00997,United States,Student,2022-11-11,2022-12-07,26.0,New York,Rejected,Autumn,2022,26.0,26.0
+A00816,Australia,Tourist,2022-07-27,2022-08-08,12.0,London,Approved,Summer,2022,12.0,12.0
+A00863,China,Student,2022-07-19,2022-09-02,45.0,Berlin,Approved,Summer,2022,45.0,45.0
+A00270,Turkey,Student,2024-05-16,2024-07-17,62.0,New York,Approved,Spring,2024,62.0,62.0
+A00202,Philippines,Work,2021-10-03,2021-11-22,50.0,Singapore,Approved,Autumn,2021,50.0,50.0
+A00162,Canada,Work,2022-04-26,2022-07-22,87.0,Delhi,Rejected,Spring,2022,87.0,87.0
+A00556,United States,Work,2021-04-13,2021-08-11,120.0,Sydney,Approved,Spring,2021,120.0,120.0
+A00730,India,Skilled Migration,2023-04-12,2023-08-24,134.0,Sydney,Approved,Spring,2023,134.0,134.0
+A00402,Sri Lanka,Tourist,2021-10-02,2021-10-28,26.0,Ottawa,Approved,Autumn,2021,26.0,26.0
+A00703,Turkey,Tourist,2022-01-19,2022-02-05,17.0,New York,Approved,Winter,2022,17.0,17.0
+A00822,Kenya,Employment,2023-12-11,2024-04-01,112.0,Ottawa,Approved,Winter,2023,112.0,112.0
+A00772,France,Work,2021-06-18,2021-07-23,35.0,London,Rejected,Summer,2021,35.0,35.0
+A00390,Sri Lanka,Employment,2021-12-27,2022-04-29,123.0,Delhi,Approved,Winter,2021,123.0,123.0
+A00002,Australia,Work,2022-10-19,2022-12-07,49.0,Sydney,Rejected,Autumn,2022,49.0,49.0
+A00938,United States,Tourist,2023-11-18,2023-11-30,12.0,New York,Approved,Autumn,2023,12.0,12.0
+A00983,Philippines,Permanent Residency,2024-06-17,2024-12-04,170.0,Abu Dhabi,Approved,Summer,2024,170.0,170.0
+A00562,UAE,Skilled Migration,2024-11-08,2025-05-14,187.0,Abu Dhabi,Approved,Autumn,2024,187.0,187.0
+A00206,Canada,Student,2022-12-21,2023-02-19,60.0,London,Approved,Winter,2022,60.0,60.0
+A00035,UAE,Student,2022-05-12,2022-06-18,37.0,Delhi,Approved,Spring,2022,37.0,37.0
+A00776,Australia,Business,2023-08-18,2023-09-12,25.0,Berlin,Approved,Summer,2023,25.0,25.0
+A00428,India,Student,2022-05-20,2022-07-02,43.0,New York,Approved,Spring,2022,43.0,43.0
+A00455,Germany,Student,2022-03-05,2022-05-19,75.0,Ottawa,Approved,Spring,2022,75.0,75.0
+A00367,Philippines,Permanent Residency,2024-08-11,2025-03-18,219.0,Abu Dhabi,Approved,Summer,2024,219.0,219.0
+A00092,United States,Employment,2021-09-16,2021-12-04,79.0,Sydney,Approved,Autumn,2021,79.0,79.0
+A00898,Brazil,Permanent Residency,2022-10-02,2023-03-06,155.0,Berlin,Approved,Autumn,2022,155.0,155.0
+A00565,India,Permanent Residency,2023-09-10,2024-06-24,288.0,Ottawa,Approved,Autumn,2023,288.0,271.7400000000001
+A00346,United Kingdom,Permanent Residency,2022-05-22,2022-12-27,219.0,Singapore,Rejected,Spring,2022,219.0,219.0
+A00777,Brazil,Tourist,2022-09-17,2022-10-02,15.0,Abu Dhabi,Approved,Autumn,2022,15.0,15.0
+A00242,Kenya,Student,2022-02-22,2022-04-10,47.0,London,Approved,Winter,2022,47.0,47.0
+A00316,Germany,Tourist,2022-02-12,2022-02-26,14.0,New York,Approved,Winter,2022,14.0,14.0
+A00388,India,Student,2022-01-19,2022-03-10,50.0,Ottawa,Approved,Winter,2022,50.0,50.0
+A00274,China,Employment,2024-12-12,2025-05-16,155.0,Berlin,Approved,Winter,2024,155.0,155.0
+A00167,China,Employment,2022-08-31,2023-01-10,132.0,Sydney,Approved,Summer,2022,132.0,132.0
+A00841,Australia,Permanent Residency,2021-01-15,2021-08-05,202.0,Singapore,Approved,Winter,2021,202.0,202.0
+A00993,India,Permanent Residency,2021-10-04,2022-05-10,218.0,Delhi,Rejected,Autumn,2021,218.0,218.0
+A00647,India,Tourist,2023-04-23,2023-05-12,19.0,Berlin,Approved,Spring,2023,19.0,19.0
+A00819,Pakistan,Employment,2024-02-24,2024-05-12,78.0,Sydney,Approved,Winter,2024,78.0,78.0
+A00485,Canada,Business,2024-03-27,2024-05-09,43.0,New York,Approved,Spring,2024,43.0,43.0
+A00981,Canada,Visit,2023-07-10,2023-08-13,34.0,Sydney,Approved,Summer,2023,34.0,34.0
+A00505,Sri Lanka,Skilled Migration,2023-12-01,2024-04-30,151.0,Ottawa,Approved,Winter,2023,151.0,151.0
+A00832,United States,Work,2023-07-26,2023-10-12,78.0,Delhi,Approved,Summer,2023,78.0,78.0
+A00244,Nigeria,Visit,2021-05-22,2021-06-16,25.0,Ottawa,Approved,Spring,2021,25.0,25.0
+A00567,Bangladesh,Skilled Migration,2023-10-13,2023-11-06,24.0,Berlin,Rejected,Autumn,2023,24.0,24.0
+A00876,Kenya,Employment,2023-07-22,2023-09-10,50.0,Singapore,Approved,Summer,2023,50.0,50.0
+A00563,South Africa,Permanent Residency,2024-10-11,2025-03-25,165.0,London,Approved,Autumn,2024,165.0,165.0
+A00687,Kenya,Permanent Residency,2022-12-16,2023-09-01,259.0,London,Approved,Winter,2022,259.0,259.0
+A00190,Nepal,Student,2023-10-30,2023-12-26,57.0,Sydney,Approved,Autumn,2023,57.0,57.0
+A00783,Saudi Arabia,Employment,2021-12-06,2022-03-16,100.0,Abu Dhabi,Approved,Winter,2021,100.0,100.0
+A00700,UAE,Permanent Residency,2021-12-16,2022-05-31,166.0,Singapore,Rejected,Winter,2021,166.0,166.0
+A00476,China,Student,2023-07-08,2023-09-29,83.0,New York,Approved,Summer,2023,83.0,83.0
+A00682,Nepal,Employment,2022-10-17,2023-02-20,126.0,Ottawa,Approved,Autumn,2022,126.0,126.0
+A00511,Brazil,Visit,2022-11-04,2022-11-23,19.0,Abu Dhabi,Approved,Autumn,2022,19.0,19.0
+A00059,Nigeria,Student,2022-10-09,2022-12-24,76.0,Singapore,Rejected,Autumn,2022,76.0,76.0
+A00475,Kenya,Student,2022-01-03,2022-03-10,66.0,Singapore,Approved,Winter,2022,66.0,66.0
+A00561,Nepal,Skilled Migration,2023-12-07,2024-03-18,102.0,Ottawa,Rejected,Winter,2023,102.0,102.0
+A00857,India,Permanent Residency,2021-01-06,2021-08-13,219.0,Sydney,Approved,Winter,2021,219.0,219.0
+A00748,Pakistan,Permanent Residency,2022-12-30,2023-07-11,193.0,Singapore,Approved,Winter,2022,193.0,193.0
+A00253,Philippines,Permanent Residency,2021-09-26,2022-04-06,192.0,Berlin,Approved,Autumn,2021,192.0,192.0
+A00314,Brazil,Tourist,2024-07-02,2024-07-12,10.0,Berlin,Approved,Summer,2024,10.0,10.0
+A00460,Philippines,Skilled Migration,2023-02-14,2023-06-02,108.0,New York,Approved,Winter,2023,108.0,108.0
+A00277,United Kingdom,Visit,2023-02-26,2023-03-28,30.0,Ottawa,Approved,Winter,2023,30.0,30.0
+A00956,Pakistan,Skilled Migration,2022-02-11,2022-06-25,134.0,Ottawa,Approved,Winter,2022,134.0,134.0
+A00192,Bangladesh,Business,2021-11-26,2021-12-21,25.0,London,Approved,Autumn,2021,25.0,25.0
+A00386,France,Business,2022-04-03,2022-05-07,34.0,London,Approved,Spring,2022,34.0,34.0
+A00806,Pakistan,Visit,2024-05-08,2024-08-13,97.0,Singapore,Rejected,Spring,2024,97.0,97.0
+A00414,United States,Permanent Residency,2021-09-30,2022-04-11,193.0,Singapore,Approved,Autumn,2021,193.0,193.0
+A00492,Turkey,Student,2023-11-26,2024-01-28,63.0,New York,Approved,Autumn,2023,63.0,63.0
+A00770,France,Work,2022-06-23,2022-08-31,69.0,Sydney,Approved,Summer,2022,69.0,69.0
+A00309,Germany,Visit,2021-08-13,2021-09-02,20.0,Abu Dhabi,Approved,Summer,2021,20.0,20.0
+A00662,Sri Lanka,Visit,2021-06-05,2021-07-03,28.0,Abu Dhabi,Approved,Summer,2021,28.0,28.0
+A00131,China,Skilled Migration,2023-06-21,2023-09-07,78.0,New York,Approved,Summer,2023,78.0,78.0
+A00664,Philippines,Visit,2022-09-26,2022-10-12,16.0,New York,Approved,Autumn,2022,16.0,16.0
+A00872,Germany,Student,2024-06-19,2024-08-26,68.0,London,Approved,Summer,2024,68.0,68.0
+A00100,Nepal,Business,2023-09-13,2023-12-14,92.0,Singapore,Approved,Autumn,2023,92.0,92.0
+A00373,United Kingdom,Skilled Migration,2024-01-05,2024-04-10,96.0,Ottawa,Approved,Winter,2024,96.0,96.0
+A00088,Brazil,Work,2023-07-29,2023-10-22,85.0,Delhi,Rejected,Summer,2023,85.0,85.0
+A00459,Canada,Visit,2023-02-08,2023-03-01,21.0,London,Approved,Winter,2023,21.0,21.0
+A00331,United Kingdom,Skilled Migration,2021-05-01,2021-09-23,145.0,London,Approved,Spring,2021,145.0,145.0
+A00215,Germany,Permanent Residency,2022-02-22,2022-11-03,254.0,Abu Dhabi,Approved,Winter,2022,254.0,254.0
+A00467,South Africa,Skilled Migration,2024-07-22,2024-12-17,148.0,Ottawa,Approved,Summer,2024,148.0,148.0
+A00122,Nigeria,Business,2022-10-23,2022-11-20,28.0,Berlin,Approved,Autumn,2022,28.0,28.0
+A00615,Nepal,Work,2023-04-10,2023-08-05,117.0,Ottawa,Rejected,Spring,2023,117.0,117.0
+A00021,Philippines,Employment,2023-09-19,2024-01-10,113.0,Delhi,Rejected,Autumn,2023,113.0,113.0
+A00701,South Africa,Tourist,2021-04-23,2021-05-14,21.0,Singapore,Approved,Spring,2021,21.0,21.0
+A00072,Canada,Student,2024-10-23,2025-01-16,85.0,Berlin,Approved,Autumn,2024,85.0,85.0
+A00107,China,Visit,2022-01-30,2022-02-16,17.0,London,Approved,Winter,2022,17.0,17.0
+A00271,United Kingdom,Tourist,2023-09-03,2023-09-20,17.0,Ottawa,Approved,Autumn,2023,17.0,17.0
+A00861,Nepal,Skilled Migration,2024-04-01,2024-07-31,121.0,Ottawa,Approved,Spring,2024,121.0,121.0
+A00436,Germany,Work,2021-05-12,2021-08-07,87.0,New York,Approved,Spring,2021,87.0,87.0
+A00103,Australia,Student,2022-02-28,2022-05-15,76.0,Berlin,Approved,Winter,2022,76.0,76.0
