@@ -32,3 +32,7 @@ based on historical data such as applicant country, visa type, and application s
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🌐 Deployed Application
+You can access the live app here:  
+[Live App] https://visa-prediction-project-ersgkhjvxvqxhkr6ugy5wp.streamlit.app/
